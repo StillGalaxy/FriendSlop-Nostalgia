@@ -1,0 +1,43 @@
+# Ignore all
+*
+!*/
+
+# track this file
+!.gitignore
+
+#modpack relevant folders
+!config/**
+#!mods/**
+!resources/**
+!scripts/**
+mods/Reika/**
+!todo/**
+!journeymap/config/**
+!serverutilities/**
+!falsepattern/**
+
+# log script
+!logs/casc_stacktraces.pl
+
+#root files
+options.txt
+optionsof.txt
+servers.dat
+
+#user specific config files
+config/HardcoreEnderExpansion.clientsave.cfg
+config/falsetweaks_userspecific.cfg
+config/tellme/**
+config/smoothfont/**
+!config/smoothfont/smoothfont.cfg
+config/NEI/**
+!config/NEI/client.cfg
+!config/NEI/heighthackhandlers.cfg
+!config/NEI/serialhandlers.cfg
+!config/NEI/handlers.csv
+config/time.history
+config/UniqueNames.txt
+config/activity.json
+
+#temporary files
+mods/carpentersblocks/CarpentersBlocksCachedResources.zip
