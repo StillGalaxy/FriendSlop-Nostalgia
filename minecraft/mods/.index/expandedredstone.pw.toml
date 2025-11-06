@@ -1,0 +1,16 @@
+filename = 'ExpandedRedstone 1.7.10 V33a.jar'
+name = 'ExpandedRedstone'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8197bc252b7ab4a64bc1dc393ed60e6460f81443'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4721209
+project-id = 235602

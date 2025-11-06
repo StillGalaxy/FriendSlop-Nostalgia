@@ -1,0 +1,16 @@
+filename = 'ElectriCraft 1.7.10 V33a.jar'
+name = 'ElectriCraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '09dcc1bab7a534334f5e3194c34630ea6334de41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4721198
+project-id = 235594

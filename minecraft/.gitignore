@@ -7,7 +7,7 @@
 
 #modpack relevant folders
 !config/**
-#!mods/**
+!mods/**
 !resources/**
 !scripts/**
 mods/Reika/**
@@ -15,6 +15,9 @@ mods/Reika/**
 !journeymap/config/**
 !serverutilities/**
 !falsepattern/**
+
+# Specific mod exclusions (CC too big of a file for github backup)
+mods/ChromatiCraft 1.7.10 V33a.jar
 
 # log script
 !logs/casc_stacktraces.pl
