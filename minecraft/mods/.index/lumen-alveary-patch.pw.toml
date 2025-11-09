@@ -1,0 +1,16 @@
+filename = 'lumenalvearypatch-1.7.10-1.0.0.jar'
+name = 'Lumen Alveary Patch'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a5f83a6d90097b98f47fae6c007d6128e4463a20'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7111851
+project-id = 1366088

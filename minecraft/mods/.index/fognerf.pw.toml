@@ -1,0 +1,16 @@
+filename = 'fognerf-1.7.10-0.4.jar'
+name = 'FogNerf'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ac06ec3d58f9506379ef9f7234e0facdba7001b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2216790
+project-id = 221849

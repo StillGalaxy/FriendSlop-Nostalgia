@@ -1,0 +1,16 @@
+filename = 'tinker_io-1.7.10-release 1.5.0.jar'
+name = 'Tinker I/O'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38658c81b79d02df38610c2ae68f0fb4c33cad5b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2283060
+project-id = 229503

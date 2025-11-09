@@ -1,0 +1,16 @@
+filename = 'TCBotaniaExoflame-1.7.10-1.4.jar'
+name = 'TCBotaniaExoflame'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1bd45994e37e7ba641c8045fc5fab6fbf1c087a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2273402
+project-id = 238061

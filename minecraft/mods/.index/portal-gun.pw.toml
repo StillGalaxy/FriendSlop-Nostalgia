@@ -1,0 +1,16 @@
+filename = 'PortalGun-4.0.0-beta-6-fix-1.jar'
+name = 'Portal Gun'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6d12fbb5c8bc1acfffea96b896bae74619e26534'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2480016
+project-id = 229084

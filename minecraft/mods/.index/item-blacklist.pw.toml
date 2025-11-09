@@ -1,0 +1,16 @@
+filename = 'ItemBlacklist-1.7.10-1.2.0.8.jar'
+name = 'Item Blacklist'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0490dd814e0f8e0aa647e6eddec77b9c3e539ccc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2317458
+project-id = 237226

@@ -1,0 +1,16 @@
+filename = 'EnderTech-1.7.10-0.3.2.405.jar'
+name = 'EnderTech'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '46464ba96303f5439dbd5248fbde26ec91fd7a5e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2260928
+project-id = 223428
