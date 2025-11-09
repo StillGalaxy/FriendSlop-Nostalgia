@@ -1,0 +1,16 @@
+filename = 'Alfheim-63.jar'
+name = 'Alfheim'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15b7f610c15a523f737a601401673e3e2961575b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7160957
+project-id = 284811

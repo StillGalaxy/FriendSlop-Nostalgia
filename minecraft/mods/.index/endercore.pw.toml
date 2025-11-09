@@ -1,0 +1,16 @@
+filename = 'EnderCore-1.7.10-0.2.0.40_beta.jar'
+name = 'EnderCore'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f8fd9953d5dacc7ec684221157e8a4066d1960af'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4671288
+project-id = 231868

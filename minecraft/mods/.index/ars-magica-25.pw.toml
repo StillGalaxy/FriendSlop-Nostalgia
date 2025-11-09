@@ -1,0 +1,16 @@
+filename = 'AM2.5-LTS-1.6.7.jar'
+name = 'Ars Magica 2.5'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b2feacf45f447188234096a64c0796ad66b8195b6c9485e6716a9a87b7611ddc2ebb17c8229ad352082ba00b252fed897fe259dc861d36189dd56a657f209e7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4NBV2LS4/versions/IRFGNOX9/AM2.5-LTS-1.6.7.jar'
+
+[update.modrinth]
+mod-id = '4NBV2LS4'
+version = 'IRFGNOX9'

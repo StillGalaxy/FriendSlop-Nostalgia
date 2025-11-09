@@ -1,0 +1,16 @@
+filename = 'InfernalMobs-1.7.10.jar'
+name = "AtomicStryker's Infernal Mobs"
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0fc41e4a6f90a15044ca6bd0e40f22be8dc8fe3c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2227584
+project-id = 227875

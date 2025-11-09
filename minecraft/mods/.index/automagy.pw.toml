@@ -1,0 +1,16 @@
+filename = 'Automagy-1.7.10-0.28.2.jar'
+name = 'Automagy'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '125d0d24ce4cca204bb8e38f9b93ed5b4c3f8961'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2285272
+project-id = 222153

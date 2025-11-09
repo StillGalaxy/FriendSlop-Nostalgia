@@ -1,0 +1,16 @@
+filename = '1.7.10-ASJCore-1.5.2.2.jar'
+name = 'ASJCore'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '73b00ca9ad5b4a1cda751d1bd0228ccf7a785ae5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7160929
+project-id = 445557

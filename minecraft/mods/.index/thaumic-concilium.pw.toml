@@ -1,0 +1,16 @@
+filename = 'ThaumicConcilium-1.0.11.jar'
+name = 'Thaumic Concilium'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd4bfb5866f98a6c010223ae85df3ac545d717d4c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5893150
+project-id = 1056309

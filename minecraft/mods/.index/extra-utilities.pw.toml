@@ -1,0 +1,16 @@
+filename = 'extrautilities-1.2.12.jar'
+name = 'Extra Utilities'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5abef956579df31d86f54cc20bf7ac8ba7d481a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2264383
+project-id = 225561

@@ -1,0 +1,16 @@
+filename = 'ExtraUtilitiesTweaks-1.0.0.jar'
+name = 'Extra Utilities Tweaks'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd3d9dc6eb0ea0489706013784c5832d0e4e41c7f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2464062
+project-id = 274356

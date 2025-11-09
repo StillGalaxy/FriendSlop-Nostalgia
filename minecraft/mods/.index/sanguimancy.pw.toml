@@ -1,0 +1,16 @@
+filename = 'Sanguimancy-1.7.10-1.1.9-35.jar'
+name = 'Sanguimancy'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '90622929f5e073fbafcd11b388a9949ac8710506'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2299730
+project-id = 223722

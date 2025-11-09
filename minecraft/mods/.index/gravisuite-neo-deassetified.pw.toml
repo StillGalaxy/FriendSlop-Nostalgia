@@ -1,0 +1,16 @@
+filename = 'gravisuiteneo-1.2.2.jar'
+name = 'GraviSuite Neo Deassetified'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '90085e340c04e70e3e96f4b85091e01b8419572a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5754144
+project-id = 1108971

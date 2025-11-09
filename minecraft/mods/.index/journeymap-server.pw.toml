@@ -1,0 +1,16 @@
+filename = 'JourneyMapServer1.01_Bukkit_MC1.9.jar'
+name = 'JourneyMap Server'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.10', '1.10.2', '1.11', '1.11.1', '1.11.2', '1.12', '1.12.1', '1.12.2', '1.7.10', '1.9.2', '1.9.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e024644f500d37a77d0c3df7ad57a4c30b3f1469'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2292232
+project-id = 225341
