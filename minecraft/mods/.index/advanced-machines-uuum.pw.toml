@@ -1,0 +1,16 @@
+filename = 'advanced-machines-59.0.2.jar'
+name = 'Advanced Machines UUUM (Immibis)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9893dc435c2950d06b1554b6c6c3374533348f25023b526397159b9d2eb39fef42b9c96c6851d7d61794ad7a263c4d63ed68f924c523ae75de445b48bda96ca9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rbgdDn4c/versions/FivqpbSy/advanced-machines-59.0.2.jar'
+
+[update.modrinth]
+mod-id = 'rbgdDn4c'
+version = 'FivqpbSy'

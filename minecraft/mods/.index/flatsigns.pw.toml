@@ -1,0 +1,16 @@
+filename = 'FlatSigns-1.7.10-universal-2.1.0.19.jar'
+name = 'FlatSigns'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9e93c134fae6fc6a2c0b56bf32fc3e9106e04dab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2217447
+project-id = 59856

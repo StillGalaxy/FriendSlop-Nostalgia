@@ -1,0 +1,16 @@
+filename = 'ExtendedPotions-MC1.7.10-1.2.jar'
+name = 'Extended Potions'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b7f2443de95e7d881e87f40ec5e3ed8b5a86e9e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2240524
+project-id = 229978

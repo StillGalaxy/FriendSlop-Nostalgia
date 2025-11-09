@@ -1,0 +1,16 @@
+filename = 'NotEnoughIDs-1.4.3.5.jar'
+name = 'NotEnoughIDs'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '7e07245b7513aaeda834286a31110679a83184e2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2679519
+project-id = 235107

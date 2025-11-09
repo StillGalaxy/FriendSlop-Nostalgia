@@ -1,0 +1,16 @@
+filename = "Pam's HarvestCraft 1.7.10Lb.jar"
+name = "Pam's HarvestCraft"
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5f85c3fcbf8586a438030c216c4fe37c7a6402c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2270206
+project-id = 221857

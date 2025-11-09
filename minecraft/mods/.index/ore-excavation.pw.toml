@@ -1,0 +1,16 @@
+filename = 'OreExcavation-1.1.134.jar'
+name = 'Ore Excavation'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6f3199bf2e9c73faf78ad4b19d1187d64773272a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2673691
+project-id = 250898

@@ -1,0 +1,16 @@
+filename = 'Aroma1997DimensionFix-1.1.jar'
+name = 'Aroma Dimensional Fix'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2604271af01350ae52e02d712ec4f9d9567fb003'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3495519
+project-id = 538172

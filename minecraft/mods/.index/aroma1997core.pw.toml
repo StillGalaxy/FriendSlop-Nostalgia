@@ -1,0 +1,16 @@
+filename = 'Aroma1997Core-1.7.10-1.0.2.16.jar'
+name = 'Aroma1997Core'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f86607a5748c70d4614502115070e0e63a266810'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2257644
+project-id = 223735

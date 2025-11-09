@@ -1,0 +1,16 @@
+filename = 'Patcher.jar'
+name = 'ASP + GS Patcher'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '10c0e19b453d18e017ae25d648d18b62f78f6c11'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2287047
+project-id = 242878
