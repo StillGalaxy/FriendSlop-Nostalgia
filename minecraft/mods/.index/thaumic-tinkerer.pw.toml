@@ -1,0 +1,16 @@
+filename = 'ThaumicTinkerer-2.5-1.7.10-164.jar'
+name = 'Thaumic Tinkerer'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e50a70d3f65bdfb59c2fef2db2d6515aa1e640f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2232793
+project-id = 75598

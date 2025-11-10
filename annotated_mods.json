@@ -676,7 +676,7 @@
   "DefenseTech": {
     "file_path": "../minecraft/mods/DefenseTech-1.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "https://github.com/MalTeeez/DefenseTech",
+    "source": "",
     "notes": "",
     "wanted_by": [],
     "wants": ["Mekanism"],
@@ -685,10 +685,10 @@
     "update_state": {
       "version": "1.1",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-09T00:47:52.250Z",
-      "source_type": "GH_RELEASE",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -901,25 +901,6 @@
       "file_pattern": ""
     }
   },
-  "ExtraCraftingStorage": {
-    "file_path": "../minecraft/mods/ExtraCraftingStorage-1.0-rv3-beta10.1.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["extracells"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "ExtraTiC": {
     "file_path": "../minecraft/mods/ExtraTiC-1.7.10-1.4.6.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -978,7 +959,7 @@
     }
   },
   "ExtrabiomesXL": {
-    "file_path": "../minecraft/mods/ExtrabiomesXL-3.16.10.jar",
+    "file_path": "../minecraft/mods/extrabiomesxl_1.7.10-3.16.4.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/jss2a98aj/ExtrabiomesXL",
     "notes": "",
@@ -1529,14 +1510,14 @@
     }
   },
   "Mekanism": {
-    "file_path": "../minecraft/mods/Mekanism-Community-Edition-1.7.10-9.10.46-Core.jar",
+    "file_path": "../minecraft/mods/Mekanism-Community-Edition-1.7.10-9.10.46-ALL.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": ["DefenseTech"],
     "wants": ["ForgeMultipart"],
     "enabled": true,
-    "other_mod_ids": [],
+    "other_mod_ids": ["MekanismGenerators", "MekanismTools"],
     "update_state": {
       "version": "0",
       "disable_check": false,
@@ -1914,7 +1895,7 @@
     }
   },
   "ProjRed|Core": {
-    "file_path": "../minecraft/mods/ProjRed-4.12.3-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/ProjRed-4.12.4-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ProjectRed",
     "notes": "",
@@ -1932,11 +1913,11 @@
       "ProjRed|Exploration"
     ],
     "update_state": {
-      "version": "4.12.3-GTNH-pre",
+      "version": "4.12.4-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.265Z",
+      "last_updated_at": "2025-11-10T03:56:10.336Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2471,7 +2452,8 @@
       "ThaumcraftResearchTweaks",
       "magianaturalis",
       "mdeco",
-      "thaumicinfusion"
+      "thaumicinfusion",
+      "thaumicnexus"
     ],
     "wants": ["Baubles"],
     "enabled": true,
@@ -2607,7 +2589,7 @@
     }
   },
   "ThaumicTinkerer": {
-    "file_path": "../minecraft/mods/ThaumicTinkerer-2.12.3-pre.jar",
+    "file_path": "../minecraft/mods/ThaumicTinkerer-2.5-1.7.10-164.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicTinkerer",
     "notes": "",
@@ -3152,7 +3134,7 @@
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.249Z",
+      "last_updated_at": "2025-11-10T03:57:08.731Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3167,7 +3149,6 @@
       "ae2stuff",
       "ae2wct",
       "betterp2p",
-      "extracells",
       "neenergistics",
       "thaumicenergistics"
     ],
@@ -3570,7 +3551,7 @@
     }
   },
   "chisel": {
-    "file_path": "../minecraft/mods/chisel-2.17.4-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/chisel-2.17.5-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Chisel",
     "notes": "",
@@ -3579,11 +3560,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.17.4-GTNH-pre",
+      "version": "2.17.5-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.248Z",
+      "last_updated_at": "2025-11-10T03:56:10.333Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4082,25 +4063,6 @@
       "file_pattern": ""
     }
   },
-  "extracells": {
-    "file_path": "../minecraft/mods/ExtraCells-2.5.35.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": ["ExtraCraftingStorage"],
-    "wants": ["appliedenergistics2"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "fairylights": {
     "file_path": "../minecraft/mods/fairylights-1.4.0-1.7.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -4310,7 +4272,8 @@
       "navigator",
       "oauth",
       "serverutilities",
-      "malisisdoors"
+      "malisisdoors",
+      "neid"
     ],
     "wants": [],
     "enabled": true,
@@ -4320,7 +4283,7 @@
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T01:36:07.845Z",
+      "last_updated_at": "2025-11-10T03:57:08.736Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4953,12 +4916,12 @@
     }
   },
   "neid": {
-    "file_path": "../minecraft/mods/notenoughIDs-1.5.5.jar",
+    "file_path": "../minecraft/mods/notenoughIDs-2.1.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": [],
-    "wants": [],
+    "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
@@ -5485,9 +5448,9 @@
     }
   },
   "tc4tweak": {
-    "file_path": "../minecraft/mods/Thaumcraft4Tweaks-1.5.3.jar",
+    "file_path": "../minecraft/mods/Thaumcraft4Tweaks-1.5.40.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "https://github.com/GTNewHorizons/TC4Tweaks",
+    "source": "",
     "notes": "",
     "wanted_by": [],
     "wants": ["Thaumcraft"],
@@ -5496,10 +5459,10 @@
     "update_state": {
       "version": "1.5.3",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.218Z",
-      "source_type": "GH_RELEASE",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -5785,6 +5748,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.217Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "thaumicnexus": {
+    "file_path": "../minecraft/mods/Thaumic-Nexus-[1.7.10] a0.2.9-0.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["Thaumcraft"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "a0.2.9-0",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },

@@ -1,0 +1,16 @@
+filename = 'extrabiomesxl_1.7.10-3.16.4.jar'
+name = 'ExtrabiomesXL'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ae12fc1826b53a53f4c5d231de2b4c8b1dea18cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2273301
+project-id = 60041
