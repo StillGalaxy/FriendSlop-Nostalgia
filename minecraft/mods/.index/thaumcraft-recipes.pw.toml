@@ -1,0 +1,16 @@
+filename = 'ThaumcraftRecipes-1.1.0.jar'
+name = 'Thaumcraft Recipes'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8bb0b60e2166b47e22385c591ec5782058f38a93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5537911
+project-id = 1034746
