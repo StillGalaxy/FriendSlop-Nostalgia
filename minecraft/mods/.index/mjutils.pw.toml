@@ -1,0 +1,16 @@
+filename = 'mjutils-1.6.1.jar'
+name = 'MJUtils'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b0aeae46dd2338f6ce05935ddbbcb042de3c2f41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2707995
+project-id = 280824

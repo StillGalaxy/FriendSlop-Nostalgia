@@ -1,0 +1,16 @@
+filename = 'CleanView-1.7.10-v2.jar'
+name = 'CleanView'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd96931bafa4a1148fd341f34abe67c479e2c163d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2224179
+project-id = 226889
