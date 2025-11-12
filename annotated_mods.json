@@ -1238,7 +1238,8 @@
       "IC2NuclearControl",
       "compactkineticgenerators",
       "gravisuiteneo",
-      "ImmibisCore"
+      "ImmibisCore",
+      "berriespp"
     ],
     "wants": [],
     "enabled": true,
@@ -3400,6 +3401,25 @@
       "file_pattern": ""
     }
   },
+  "berriespp": {
+    "file_path": "../minecraft/mods/CropsPP-1.9.3.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["mod_IC2", "mod_CropLoadCore", "IC2", "croploadcore"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.9.3",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
   "betterbuilderswands": {
     "file_path": "../minecraft/mods/BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -3411,6 +3431,25 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0.8.1",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
+  "bettercaves": {
+    "file_path": "../minecraft/mods/bettercaves-1.0.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["mycelium"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.0",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -3829,6 +3868,25 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
+  "croploadcore": {
+    "file_path": "../minecraft/mods/CropLoadCore-0.3.0.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": ["berriespp"],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "0.3.0",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -4914,6 +4972,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.242Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "mycelium": {
+    "file_path": "../minecraft/mods/+Mycelium-2.3.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": ["bettercaves"],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "2.3",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
