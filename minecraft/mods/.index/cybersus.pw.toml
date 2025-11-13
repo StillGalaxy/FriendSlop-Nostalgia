@@ -1,0 +1,16 @@
+filename = 'cybersus_main-1.6.1.2.jar'
+name = 'Cybersus'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '42c1e95210edc26ba83ed05963aa552a44279ec0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7184860
+project-id = 1149501
