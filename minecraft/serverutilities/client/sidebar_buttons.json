@@ -2,7 +2,7 @@
 	"serverutilities": {
 		"my_team": true,
 		"settings": true,
-		"admin_panel": true,
+		"admin_panel": false,
 		"toggle.gamemode": true,
 		"toggle.rain": true,
 		"toggle.day": true,
