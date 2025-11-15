@@ -1,0 +1,16 @@
+filename = 'falsepatternlib-mc1.7.10-1.10.2.jar'
+name = 'FalsePatternLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5a0d2a808554aee75b219dd5f6cfc8978fd89430'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7219865
+project-id = 665627
