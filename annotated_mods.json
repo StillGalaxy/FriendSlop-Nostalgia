@@ -2611,7 +2611,7 @@
     }
   },
   "ThaumicMachina": {
-    "file_path": "../minecraft/mods/ThaumicMachina-0.2.1.5.jar",
+    "file_path": "../minecraft/mods/Thaumic Machina-1.7.10-0.2.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -3269,7 +3269,7 @@
     }
   },
   "arsmagica2": {
-    "file_path": "../minecraft/mods/AM2.5-LTS-1.6.7.jar",
+    "file_path": "../minecraft/mods/AM2.5-LTS-1.7.5-RE.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -6174,7 +6174,7 @@
     }
   },
   "witchery": {
-    "file_path": "../minecraft/mods/Witchery-0.24.1.4.jar",
+    "file_path": "../minecraft/mods/witchery-1.7.10-0.24.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
