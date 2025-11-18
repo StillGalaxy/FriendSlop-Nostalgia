@@ -1,0 +1,16 @@
+filename = 'lucky-block-forge-1.7.10-1.0.jar'
+name = 'Lucky Block'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '85cc47f05857d3dbb77df6a9318e38534129447c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3652651
+project-id = 576825

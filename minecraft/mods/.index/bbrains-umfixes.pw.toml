@@ -1,0 +1,16 @@
+filename = 'ThaumicHybrid-1.1.jar'
+name = '[BBrains] Unsupported Mods Fixes'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '25e066aa3698bf1982ad28fc9e9dbeec918976a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4970526
+project-id = 939770

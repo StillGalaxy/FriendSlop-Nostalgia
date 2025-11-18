@@ -1,0 +1,16 @@
+filename = 'AdvancedSolarPanel-1.7.10-3.5.1.jar'
+name = 'Advanced Solar pin'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'f2254c849c790ec1adc14a7173ef455cf2b483e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2837882
+project-id = 353946

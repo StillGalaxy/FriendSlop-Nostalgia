@@ -1,0 +1,16 @@
+filename = 'ThaumicHorizons-1.8.9.jar'
+name = 'Thaumic Horizons'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '578b15869fc4e6763f257599fd066641e4a205d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7218512
+project-id = 227914

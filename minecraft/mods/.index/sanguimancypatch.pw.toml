@@ -1,0 +1,16 @@
+filename = 'SanguimancyPatch-1.1.0.jar'
+name = 'SanguimancyPatch'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd93947a54816104d5d68d6b8ab9bbeda7bd6c773'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6128934
+project-id = 1165604

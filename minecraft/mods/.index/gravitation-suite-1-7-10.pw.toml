@@ -1,0 +1,16 @@
+filename = 'GraviSuite-1.7.10-2.0.3.jar'
+name = 'Gravitation Suite 1.7.10'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '176c2c7530440a440b60a1b9f9a21caeb6589155'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2681442
+project-id = 316141

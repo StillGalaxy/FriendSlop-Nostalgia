@@ -1,0 +1,16 @@
+filename = 'hodgepodge-2.7.13.jar'
+name = 'Hodgepodge'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f36318a909c9030c22312c9c2dd642c411930e3e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7218523
+project-id = 688899

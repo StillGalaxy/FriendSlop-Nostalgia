@@ -1,0 +1,16 @@
+filename = 'ThaumcraftGates-1.4.2.jar'
+name = 'ThaumcraftGates'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '23e5f89daed2e1b6e9c88473d9a45c5a036832b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2261794
+project-id = 221897

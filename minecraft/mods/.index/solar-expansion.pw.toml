@@ -1,0 +1,16 @@
+filename = 'SolarExpansion-Basic-1.6a.jar'
+name = 'Solar Expansion'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '050878d1a997959f691a197143958e315eef21d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2236243
+project-id = 223583
