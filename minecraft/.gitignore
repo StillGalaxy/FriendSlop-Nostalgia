@@ -15,6 +15,7 @@ mods/Reika/**
 !journeymap/config/**
 !serverutilities/**
 !falsepattern/**
+!saves/NEI/global**
 
 # Specific mod exclusions (CC too big of a file for github backup)
 mods/ChromatiCraft 1.7.10 V33a.jar

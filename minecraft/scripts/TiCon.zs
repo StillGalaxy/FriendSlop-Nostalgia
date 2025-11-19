@@ -36,34 +36,6 @@ recipes.addShaped(<TConstruct:heartCanister:6>, [[<minecraft:ender_eye>, <minecr
 #slab fix
 recipes.remove(<TConstruct:CraftingSlab:5>);
 recipes.addShapeless(<TConstruct:CraftingSlab:5>, [<TConstruct:ToolForgeBlock:*>]);
-#remove silly forges
-#iron and steel only
-recipes.remove(<TConstruct:ToolForgeBlock:1>);
-recipes.remove(<TConstruct:ToolForgeBlock:2>);
-recipes.remove(<TConstruct:ToolForgeBlock:3>);
-recipes.remove(<TConstruct:ToolForgeBlock:4>);
-recipes.remove(<TConstruct:ToolForgeBlock:5>);
-recipes.remove(<TConstruct:ToolForgeBlock:6>);
-recipes.remove(<TConstruct:ToolForgeBlock:7>);
-recipes.remove(<TConstruct:ToolForgeBlock:8>);
-recipes.remove(<TConstruct:ToolForgeBlock:9>);
-recipes.remove(<TConstruct:ToolForgeBlock:10>);
-recipes.remove(<TConstruct:ToolForgeBlock:11>);
-recipes.remove(<TConstruct:ToolForgeBlock:12>);
-#hide unused
-NEI.hide(<TConstruct:ToolForgeBlock:1>);
-NEI.hide(<TConstruct:ToolForgeBlock:2>);
-NEI.hide(<TConstruct:ToolForgeBlock:3>);
-NEI.hide(<TConstruct:ToolForgeBlock:4>);
-NEI.hide(<TConstruct:ToolForgeBlock:5>);
-NEI.hide(<TConstruct:ToolForgeBlock:6>);
-NEI.hide(<TConstruct:ToolForgeBlock:7>);
-NEI.hide(<TConstruct:ToolForgeBlock:8>);
-NEI.hide(<TConstruct:ToolForgeBlock:9>);
-NEI.hide(<TConstruct:ToolForgeBlock:10>);
-NEI.hide(<TConstruct:ToolForgeBlock:11>);
-NEI.hide(<TConstruct:ToolForgeBlock:12>);
-
 
 //Fix oreberry > ingot crafting
 #recipes.remove(

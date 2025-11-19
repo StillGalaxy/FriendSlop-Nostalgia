@@ -2,9 +2,6 @@
 import mods.nei.NEI;
 
 //BinnieCore
-#Remove compartments
-recipes.remove(<BinnieCore:storage:*>);
-NEI.hide(<BinnieCore:storage:*>);
 #Extra
 <BinnieCore:genesis>.addTooltip("Creative-Only Bee Spawner");
 
