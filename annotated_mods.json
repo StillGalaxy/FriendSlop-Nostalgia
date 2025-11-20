@@ -227,25 +227,6 @@
       "file_pattern": ""
     }
   },
-  "AromaBackup": {
-    "file_path": "../minecraft/mods/AromaBackup-1.7.10-0.1.0.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "Automagy": {
     "file_path": "../minecraft/mods/Automagy-1.7.10-0.28.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -322,44 +303,6 @@
       "file_pattern": ""
     }
   },
-  "BetterInvalidSession": {
-    "file_path": "../minecraft/mods/BetterInvalidSession-1.7.10-1.0.3.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "BetterPing": {
-    "file_path": "../minecraft/mods/BetterPing-1.7.10-1.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "BigReactors": {
     "file_path": "../minecraft/mods/BigReactors-0.4.3A.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -380,7 +323,7 @@
     }
   },
   "BinnieCore": {
-    "file_path": "../minecraft/mods/binnie-mods-2.6.0.jar",
+    "file_path": "../minecraft/mods/binnie-mods-2.6.1-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Binnie",
     "notes": "",
@@ -389,17 +332,17 @@
     "enabled": true,
     "other_mod_ids": ["ExtraBees", "ExtraTrees", "Botany", "Genetics"],
     "update_state": {
-      "version": "2.6.0",
+      "version": "2.6.1-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.270Z",
+      "last_updated_at": "2025-11-19T23:00:43.859Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "BloodArsenal": {
-    "file_path": "../minecraft/mods/BloodArsenal-1.4.10.jar",
+    "file_path": "../minecraft/mods/BloodArsenal-1.5.1-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BloodArsenal",
     "notes": "",
@@ -408,17 +351,17 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.4.10",
+      "version": "1.5.1-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.269Z",
+      "last_updated_at": "2025-11-19T23:00:43.858Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "Botania": {
-    "file_path": "../minecraft/mods/Botania-1.13.5-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/Botania-1.13.6-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Botania",
     "notes": "",
@@ -427,11 +370,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.13.5-GTNH-pre",
+      "version": "1.13.6-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.271Z",
+      "last_updated_at": "2025-11-19T23:00:43.861Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -475,7 +418,7 @@
     }
   },
   "BuildCraft|Core": {
-    "file_path": "../minecraft/mods/buildcraft-7.1.46-pre.jar",
+    "file_path": "../minecraft/mods/buildcraft-7.1.47.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BuildCraft",
     "notes": "",
@@ -496,50 +439,12 @@
       "BuildCraft|Robotics"
     ],
     "update_state": {
-      "version": "7.1.46-pre",
+      "version": "7.1.47",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.269Z",
+      "last_updated_at": "2025-11-19T23:00:43.857Z",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "Careful": {
-    "file_path": "../minecraft/mods/Careful Cast Corrector-2.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": " Cast Corrector-2.0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "Careful+Cast+Corrector": {
-    "file_path": "../minecraft/mods/Careful+Cast+Corrector-2.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -559,25 +464,6 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T13:44:31.649Z",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "CartFixes": {
-    "file_path": "../minecraft/mods/CartFixes-1.7.10-0.1.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -611,25 +497,6 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "CleanView": {
-    "file_path": "../minecraft/mods/CleanView-1.7.10-v2.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "v2",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -692,25 +559,6 @@
       "file_pattern": ""
     }
   },
-  "DefenseTech": {
-    "file_path": "../minecraft/mods/DefenseTech-1.1.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["Mekanism"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.1",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "2025-11-09T00:47:52.250Z",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "DragonAPI": {
     "file_path": "../minecraft/mods/DragonAPI 1.7.10 V33b.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -749,40 +597,21 @@
       "file_pattern": ""
     }
   },
-  "EJML-core": {
-    "file_path": "../minecraft/mods/ic2/EJML-core-0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "EMT": {
-    "file_path": "../minecraft/mods/EMT-1.7.6.jar",
+    "file_path": "../minecraft/mods/EMT-1.7.7-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
     "notes": "",
-    "wanted_by": [],
-    "wants": ["Thaumcraft 4", "IC2", "Thaumcraft", "modularui"],
+    "wanted_by": ["Thaumcraft"],
+    "wants": ["IC2", "Thaumcraft", "modularui", "Thaumcraft 4"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.7.6",
+      "version": "1.7.7-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.735Z",
+      "last_updated_at": "2025-11-19T23:00:43.856Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -1205,25 +1034,6 @@
       "file_pattern": ""
     }
   },
-  "HungerOverhaul": {
-    "file_path": "../minecraft/mods/HungerOverhaul-1.1.0-GTNH.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["AppleCore"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.1.0-GTNH",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "IC2": {
     "file_path": "../minecraft/mods/industrialcraft-2-2.2.828-experimental.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -1274,7 +1084,7 @@
     }
   },
   "IguanaTweaksTConstruct": {
-    "file_path": "../minecraft/mods/IguanaTweaksTConstruct-2.6.6.jar",
+    "file_path": "../minecraft/mods/IguanaTweaksTConstruct-2.7.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct",
     "notes": "",
@@ -1283,11 +1093,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.6.6",
+      "version": "2.7.0",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.266Z",
+      "last_updated_at": "2025-11-19T23:00:43.830Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -1368,40 +1178,21 @@
       "file_pattern": ""
     }
   },
-  "ItemBlacklist": {
-    "file_path": "../minecraft/mods/ItemBlacklist-1.7.10-1.2.0.8.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "JABBA": {
-    "file_path": "../minecraft/mods/JABBA-1.5.14-pre.jar",
+    "file_path": "../minecraft/mods/JABBA-1.5.16.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Jabba",
     "notes": "",
     "wanted_by": [],
-    "wants": [],
+    "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.14-pre",
+      "version": "1.5.16",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T01:53:34.163Z",
+      "last_updated_at": "2025-11-19T23:00:43.829Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -1445,7 +1236,7 @@
     }
   },
   "LogisticsPipes": {
-    "file_path": "../minecraft/mods/logisticspipes-1.5.5-GTNH.jar",
+    "file_path": "../minecraft/mods/logisticspipes-1.5.6-GTNH-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/LogisticsPipes",
     "notes": "",
@@ -1463,11 +1254,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.5-GTNH",
+      "version": "1.5.6-GTNH-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.735Z",
+      "last_updated_at": "2025-11-19T23:00:43.856Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -1488,25 +1279,6 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.265Z",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "MFR": {
-    "file_path": "../minecraft/mods/MFR Compat - Magical Crops v1-2-4.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -1572,7 +1344,7 @@
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/unilock/MineFactoryReloaded",
     "notes": "",
-    "wanted_by": ["mfrmagiccropscompat"],
+    "wanted_by": [],
     "wants": ["CoFHCore"],
     "enabled": true,
     "other_mod_ids": [
@@ -1609,25 +1381,6 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T01:36:07.844Z",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "MineMenu": {
-    "file_path": "../minecraft/mods/MineMenu-1.7.10-1.2.0.B44-universal-client.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -1707,25 +1460,6 @@
       "file_pattern": ""
     }
   },
-  "MutantCreatures": {
-    "file_path": "../minecraft/mods/MutantCreatures-1.7.10-1.4.9.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["AnimationAPI"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "NEIAddons": {
     "file_path": "../minecraft/mods/NEIAddons-1.17.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -1793,7 +1527,7 @@
     }
   },
   "NotEnoughItems": {
-    "file_path": "../minecraft/mods/NotEnoughItems-2.8.37-GTNH.jar",
+    "file_path": "../minecraft/mods/NotEnoughItems-2.8.39-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/NotEnoughItems",
     "notes": "",
@@ -1810,11 +1544,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.8.37-GTNH",
+      "version": "2.8.39-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.731Z",
+      "last_updated_at": "2025-11-19T23:00:43.829Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2323,12 +2057,12 @@
     }
   },
   "StorageDrawers": {
-    "file_path": "../minecraft/mods/StorageDrawers-2.2.1-GTNH.jar",
+    "file_path": "../minecraft/mods/StorageDrawers-2.2.3-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/StorageDrawers",
     "notes": "",
     "wanted_by": [],
-    "wants": [],
+    "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [
       "StorageDrawersNatura",
@@ -2338,11 +2072,11 @@
       "StorageDrawersMisc"
     ],
     "update_state": {
-      "version": "2.2.1-GTNH",
+      "version": "2.2.3-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.260Z",
+      "last_updated_at": "2025-11-19T23:00:43.828Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2386,7 +2120,7 @@
     }
   },
   "TConstruct": {
-    "file_path": "../minecraft/mods/TConstruct-1.14.10-GTNH.jar",
+    "file_path": "../minecraft/mods/TConstruct-1.14.12-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/TinkersConstruct",
     "notes": "",
@@ -2402,11 +2136,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.14.10-GTNH",
+      "version": "1.14.12-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.736Z",
+      "last_updated_at": "2025-11-19T23:00:43.857Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2573,7 +2307,7 @@
     }
   },
   "ThaumicExploration": {
-    "file_path": "../minecraft/mods/Thaumic-Exploration-1.5.5-GTNH.jar",
+    "file_path": "../minecraft/mods/Thaumic-Exploration-1.5.6-GTNH-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Thaumic_Exploration",
     "notes": "",
@@ -2582,11 +2316,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.5-GTNH",
+      "version": "1.5.6-GTNH-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.731Z",
+      "last_updated_at": "2025-11-19T23:00:43.828Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2877,7 +2611,7 @@
     }
   },
   "Waila": {
-    "file_path": "../minecraft/mods/Waila-1.9.8.jar",
+    "file_path": "../minecraft/mods/Waila-1.9.15.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/waila",
     "notes": "",
@@ -2886,11 +2620,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.9.8",
+      "version": "1.9.15",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.729Z",
+      "last_updated_at": "2025-11-19T23:00:43.827Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2915,7 +2649,7 @@
     }
   },
   "WarpTheory": {
-    "file_path": "../minecraft/mods/WarpTheory-1.5.0-GTNH.jar",
+    "file_path": "../minecraft/mods/WarpTheory-1.5.1-GTNH-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WarpTheory",
     "notes": "",
@@ -2924,17 +2658,17 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.0-GTNH",
+      "version": "1.5.1-GTNH-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T12:44:49.454Z",
+      "last_updated_at": "2025-11-19T23:00:43.827Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "WitcheryExtras": {
-    "file_path": "../minecraft/mods/WitcheryExtras-1.4.0.jar",
+    "file_path": "../minecraft/mods/WitcheryExtras-1.4.1-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WitcheryExtras",
     "notes": "",
@@ -2943,17 +2677,17 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.4.0",
+      "version": "1.4.1-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.253Z",
+      "last_updated_at": "2025-11-19T23:00:43.826Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "WitchingGadgets": {
-    "file_path": "../minecraft/mods/WitchingGadgets-1.8.8-GTNH.jar",
+    "file_path": "../minecraft/mods/WitchingGadgets-1.8.10-GTNH-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WitchingGadgets",
     "notes": "",
@@ -2962,23 +2696,23 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.8.8-GTNH",
+      "version": "1.8.10-GTNH-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.733Z",
+      "last_updated_at": "2025-11-19T23:00:43.826Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "YAMCore": {
-    "file_path": "../minecraft/mods/YAMCore-0.7.1.jar",
+    "file_path": "../minecraft/mods/YAMCore-0.7.1.jar.disabled",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Yamcl",
     "notes": "",
     "wanted_by": [],
     "wants": [],
-    "enabled": true,
+    "enabled": false,
     "other_mod_ids": [],
     "update_state": {
       "version": "0.7.1",
@@ -3038,11 +2772,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0",
+      "version": "1.5.26-gtnh",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.730Z",
+      "last_updated_at": "2025-11-19T23:00:43.825Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3057,11 +2791,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.10.2-GTNH",
+      "version": "0.10.3-GTNH-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-12T14:30:11.638Z",
+      "last_updated_at": "2025-11-19T23:00:43.801Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3197,11 +2931,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "rv3-beta-740-GTNH",
+      "version": "rv3-beta-748-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.732Z",
+      "last_updated_at": "2025-11-19T23:00:43.825Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3326,7 +3060,7 @@
     }
   },
   "backhand": {
-    "file_path": "../minecraft/mods/backhand-1.8.0.jar",
+    "file_path": "../minecraft/mods/backhand-1.8.1-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Backhand",
     "notes": "",
@@ -3335,11 +3069,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.8.0",
+      "version": "1.8.1-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.246Z",
+      "last_updated_at": "2025-11-19T23:00:43.800Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3420,25 +3154,6 @@
       "file_pattern": ""
     }
   },
-  "bettercaves": {
-    "file_path": "../minecraft/mods/bettercaves-1.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["mycelium"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "betterloadingscreen": {
     "file_path": "../minecraft/mods/BetterLoadingScreen-1.3.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -3458,25 +3173,6 @@
       "file_pattern": ""
     }
   },
-  "bettermobgriefinggamerule": {
-    "file_path": "../minecraft/mods/bettermobgriefinggamerule-1.7.10-1.0.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.0.0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "betterp2p": {
     "file_path": "../minecraft/mods/betterp2p-1.4.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -3487,11 +3183,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.4.2",
+      "version": "1.4.3",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.244Z",
+      "last_updated_at": "2025-11-19T23:00:43.800Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3512,25 +3208,6 @@
       "last_status": "200",
       "last_updated_at": "",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "biggerpacketsplz": {
-    "file_path": "../minecraft/mods/biggerpacketsplz-upto1.7.10-1.2.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -3688,44 +3365,6 @@
   },
   "clockworkphase": {
     "file_path": "../minecraft/mods/clockworkphase-1.7.10_1.0f.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "commons-codec": {
-    "file_path": "../minecraft/mods/1.7.10/commons-codec-1.9.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "commons-compress": {
-    "file_path": "../minecraft/mods/1.7.10/commons-compress-1.8.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -4047,25 +3686,6 @@
       "file_pattern": ""
     }
   },
-  "entityculling": {
-    "file_path": "../minecraft/mods/entityculling-1.6.4-mc1.7.10.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.6.4",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "eplus": {
     "file_path": "../minecraft/mods/EnchantingPlus-1.7.10-3.0.2-d.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -4180,44 +3800,6 @@
       "file_pattern": ""
     }
   },
-  "falsepatternlib": {
-    "file_path": "../minecraft/mods/falsepatternlib-mc1.7.10-1.10.2.jar.disabled",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": false,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.10.2",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "flickerfix": {
-    "file_path": "../minecraft/mods/flickerfix-1.7.10-v5.0.0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "v5.0.0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "floatingitems": {
     "file_path": "../minecraft/mods/FloatingItems-1.7.10-0.1.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -4314,7 +3896,7 @@
     }
   },
   "gadomancy": {
-    "file_path": "../minecraft/mods/gadomancy-1.5.1-pre.jar",
+    "file_path": "../minecraft/mods/gadomancy-1.5.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Gadomancy",
     "notes": "",
@@ -4323,11 +3905,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.1-pre",
+      "version": "1.5.2",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.247Z",
+      "last_updated_at": "2025-11-19T23:00:43.802Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4371,7 +3953,7 @@
     }
   },
   "gtnhlib": {
-    "file_path": "../minecraft/mods/gtnhlib-0.8.6.jar",
+    "file_path": "../minecraft/mods/gtnhlib-0.8.12.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/GTNHLib",
     "notes": "",
@@ -4389,18 +3971,19 @@
       "navigator",
       "oauth",
       "serverutilities",
-      "malisisdoors",
-      "neid"
+      "neid",
+      "JABBA",
+      "StorageDrawers"
     ],
     "wants": [],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.8.6",
+      "version": "0.8.12",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T00:39:15.683Z",
+      "last_updated_at": "2025-11-19T23:00:43.863Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4482,7 +4065,7 @@
     }
   },
   "hodgepodge": {
-    "file_path": "../minecraft/mods/hodgepodge-2.7.13.jar",
+    "file_path": "../minecraft/mods/hodgepodge-2.7.17.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Hodgepodge",
     "notes": "",
@@ -4491,11 +4074,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.7.13",
+      "version": "2.7.17",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.728Z",
+      "last_updated_at": "2025-11-19T23:00:43.799Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4576,25 +4159,6 @@
       "file_pattern": ""
     }
   },
-  "ironbackpacks": {
-    "file_path": "../minecraft/mods/IronBackpacks-1.7.10-1.2.20.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "ironfurnaces": {
     "file_path": "../minecraft/mods/ironfurnaces-1.2.4R.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -4635,25 +4199,6 @@
   },
   "itlt": {
     "file_path": "../minecraft/mods/itlt-1.7.10-1.0.4.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "jaopca": {
-    "file_path": "../minecraft/mods/JAOPCA-1.7.10-W.0.8.31.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -4771,7 +4316,7 @@
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
-    "wanted_by": ["mfrmagiccropscompat"],
+    "wanted_by": [],
     "wants": [],
     "enabled": true,
     "other_mod_ids": [],
@@ -4823,25 +4368,6 @@
       "file_pattern": ""
     }
   },
-  "malisisdoors": {
-    "file_path": "../minecraft/mods/malisisdoors-1.18.2-GTNH.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "https://github.com/GTNewHorizons/MalisisDoors",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["gtnhlib"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.18.2-GTNH",
-      "disable_check": false,
-      "frequency": "COMMON",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
   "mdeco": {
     "file_path": "../minecraft/mods/MagicalDecorations-0.3.5.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -4872,25 +4398,6 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "mfrmagiccropscompat": {
-    "file_path": "../minecraft/mods/minefactory-magicalcrops-compatibility-1.2.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["MineFactoryReloaded", "magicalcrops"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.2",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -4938,7 +4445,7 @@
     }
   },
   "mobsinfo": {
-    "file_path": "../minecraft/mods/mobsinfo-0.5.6-GTNH.jar",
+    "file_path": "../minecraft/mods/mobsinfo-0.5.7-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Mobs-Info",
     "notes": "",
@@ -4947,11 +4454,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.5.6-GTNH",
+      "version": "0.5.7-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "",
+      "last_updated_at": "2025-11-19T23:00:43.799Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -5032,25 +4539,6 @@
       "file_pattern": ""
     }
   },
-  "mycelium": {
-    "file_path": "../minecraft/mods/+Mycelium-2.3.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": ["bettercaves"],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "2.3",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "naturescompass": {
     "file_path": "../minecraft/mods/naturescompass-1.5.0-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -5090,7 +4578,7 @@
     }
   },
   "neenergistics": {
-    "file_path": "../minecraft/mods/NotEnoughEnergistics-1.7.15-pre.jar",
+    "file_path": "../minecraft/mods/NotEnoughEnergistics-1.7.16-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/NotEnoughEnergistics",
     "notes": "",
@@ -5099,11 +4587,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.7.15-pre",
+      "version": "1.7.16-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.239Z",
+      "last_updated_at": "2025-11-19T23:00:43.798Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -5181,44 +4669,6 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.238Z",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "non_update": {
-    "file_path": "../minecraft/mods/NonUpdate-AllMCVersion-Final-2.0.2-universal.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "2.0.0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "notenoughIDs": {
-    "file_path": "../minecraft/mods/NotEnoughIDs-1.4.3.5.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.4.3.5",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -5374,25 +4824,6 @@
       "file_pattern": ""
     }
   },
-  "p455w0rdlib": {
-    "file_path": "../minecraft/mods/p455w0rdslib-1.7.10-1.0.4.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "powersuits": {
     "file_path": "../minecraft/mods/ModularPowersuits-1.7.10-0.11.1.117.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -5413,7 +4844,7 @@
     }
   },
   "randomboubles": {
-    "file_path": "../minecraft/mods/randomboubles-1.0.3.jar",
+    "file_path": "../minecraft/mods/randomboubles-1.0.7-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/RandomBoubles",
     "notes": "",
@@ -5422,11 +4853,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.0.3",
+      "version": "1.0.7-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.728Z",
+      "last_updated_at": "2025-11-19T23:00:43.797Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -5621,25 +5052,6 @@
       "file_pattern": ""
     }
   },
-  "springboards": {
-    "file_path": "../minecraft/mods/Springboards-1.7.10-0.1.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0.1",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "tErrata": {
     "file_path": "../minecraft/mods/Thaumic-Errata-.1.7.10.1.0.2-0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -5717,7 +5129,7 @@
     }
   },
   "tcneiadditions": {
-    "file_path": "../minecraft/mods/tcneiadditions-1.5.4.jar",
+    "file_path": "../minecraft/mods/tcneiadditions-1.5.5-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/TCNEIAdditions",
     "notes": "",
@@ -5726,11 +5138,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.4",
+      "version": "1.5.5-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.217Z",
+      "last_updated_at": "2025-11-19T23:00:43.797Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -5751,44 +5163,6 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T11:24:10.278Z",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "teresetfix": {
-    "file_path": "../minecraft/mods/TileEntityResetFix-1.0.1-noreq.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "testdummy": {
-    "file_path": "../minecraft/mods/MmmMmmMmmMmm-1.7.10-1.9.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -5849,27 +5223,8 @@
       "file_pattern": ""
     }
   },
-  "thaumicalchemy": {
-    "file_path": "../minecraft/mods/Thaumic-Alchemy-.1.7.10.1.2-K-0.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "https://github.com/KryptonCaptain/ThaumicAlchemy",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["Thaumcraft"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "1.2",
-      "disable_check": false,
-      "frequency": "COMMON",
-      "last_status": "200",
-      "last_updated_at": "2025-11-09T13:44:31.649Z",
-      "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
   "thaumicbases": {
-    "file_path": "../minecraft/mods/Thaumic-Based-1.9.4-pre.jar",
+    "file_path": "../minecraft/mods/Thaumic-Based-1.9.5.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicBases",
     "notes": "",
@@ -5878,11 +5233,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.9.4-pre",
+      "version": "1.9.5",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.218Z",
+      "last_updated_at": "2025-11-19T23:00:43.798Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -5936,25 +5291,6 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "thaumicinfusion": {
-    "file_path": "../minecraft/mods/ThaumicInfusion-4.32.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["Thaumcraft"],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "4.32",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -6039,25 +5375,6 @@
       "file_pattern": ""
     }
   },
-  "tickdynamic": {
-    "file_path": "../minecraft/mods/TickDynamic-1.7.10-0.1.5.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0.1.5",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
   "torohealthmod": {
     "file_path": "../minecraft/mods/torohealth-1.2.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -6136,7 +5453,7 @@
     }
   },
   "wailaplugins": {
-    "file_path": "../minecraft/mods/WAILAPlugins-0.7.0.jar",
+    "file_path": "../minecraft/mods/WAILAPlugins-0.7.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WAILAPlugins",
     "notes": "",
@@ -6145,11 +5462,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.7.0",
+      "version": "0.7.2",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T12:44:49.453Z",
+      "last_updated_at": "2025-11-19T23:00:43.797Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
