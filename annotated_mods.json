@@ -749,6 +749,25 @@
       "file_pattern": ""
     }
   },
+  "ExtraFixes": {
+    "file_path": "../minecraft/mods/ExtraFixes-1.7.10-1.2.4b.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.2.4b",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
   "ExtraTiC": {
     "file_path": "../minecraft/mods/ExtraTiC-1.7.10-1.4.6.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -978,12 +997,12 @@
     }
   },
   "HardcoreEnderExpansion": {
-    "file_path": "../minecraft/mods/HardcoreEnderExpansion  MC-1.7.10  v1.8.6.jar",
+    "file_path": "../minecraft/mods/HardcoreEnderExpansion-1.12.15-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": [],
-    "wants": [],
+    "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
@@ -1141,7 +1160,7 @@
     }
   },
   "InfernalMobs": {
-    "file_path": "../minecraft/mods/InfernalMobs-1.7.10.jar",
+    "file_path": "../minecraft/mods/InfernalMobs-1.10.3-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -1194,6 +1213,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-19T23:00:43.829Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "JCPlugin": {
+    "file_path": "../minecraft/mods/JCPlugin-1.7.10-4.0.4-Forge.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "4.0.4-Forge",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -1395,6 +1433,25 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
+  "MineTweakerRecipeMaker": {
+    "file_path": "../minecraft/mods/MineTweakerRecipeMaker-1.7.10-1.1.1.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.1.1",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -3610,6 +3667,25 @@
       "file_pattern": ""
     }
   },
+  "defaultsettings": {
+    "file_path": "../minecraft/mods/DefaultSettings-1.7.10+1.12.2-4.0.7-Forge.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "4.0.7",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
   "defaultworldgenerator": {
     "file_path": "../minecraft/mods/defaultworldgenerator-0.4.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
@@ -3773,6 +3849,25 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
+  "externaltweaker": {
+    "file_path": "../minecraft/mods/externaltweaker-1.7.10-0.3.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "0.3",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -3973,7 +4068,8 @@
       "serverutilities",
       "neid",
       "JABBA",
-      "StorageDrawers"
+      "StorageDrawers",
+      "HardcoreEnderExpansion"
     ],
     "wants": [],
     "enabled": true,
@@ -5163,6 +5259,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T11:24:10.278Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "terralizationcompat": {
+    "file_path": "../minecraft/mods/terralizationcompat-1.7.10-1.0.5.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.0.5",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
