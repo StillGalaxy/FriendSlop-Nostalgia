@@ -1,269 +1,561 @@
 {
 	"curse":
 	[
-		{
-			"addonId": 232159,
-			"fileId": 2289306,
-			"fileName": "immersiveintegration-0.6.8.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 896591,
-			"fileId": 5187152,
-			"fileName": "serializationisbad-1.5.2.jar"
-		},
-		{
-			"addonId": 72503,
-			"fileId": 2272713,
-			"fileName": "Origin-1.7.10-8.0.3.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 228696,
-			"fileId": 2272531,
-			"fileName": "ThaumicExpansion-1.7.10-4.1.3.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 431297,
-			"fileId": 6929888,
-			"fileName": "Thaumcraft4Tweaks-1.5.39.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 223628,
-			"fileId": 2227552,
-			"fileName": "Thaumcraft-1.7.10-4.2.3.5.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 77191,
-			"fileId": 2221721,
-			"fileName": "AnimationAPI-1.7.10-1.2.4.jar"
-		},
-		{
-			"addonId": 223735,
-			"fileId": 2257644,
-			"fileName": "Aroma1997Core-1.7.10-1.0.2.16.jar"
-		},
-		{
-			"addonId": 538172,
-			"fileId": 3495519,
-			"fileName": "Aroma1997DimensionFix-1.1.jar"
-		},
-		{
-			"addonId": 60092,
-			"fileId": 2219018,
-			"fileName": "Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar"
-		},
-		{
-			"addonId": 228525,
-			"fileId": 2278984,
-			"fileName": "Bookshelf-1.7.10-1.0.4.187.jar"
-		},
-		{
-			"addonId": 318012,
-			"fileId": 5141051,
-			"fileName": "DefaultSettings-1.7.10+1.12.2-4.0.7-Forge.jar",
-			"metadata": {
-				"side": "CLIENT"
-			}
-		},
-		{
-			"addonId": 223428,
-			"fileId": 2260928,
-			"fileName": "EnderTech-1.7.10-0.3.2.405.jar"
-		},
-		{
-			"addonId": 270558,
-			"fileId": 2452853,
-			"fileName": "externaltweaker-1.7.10-0.3.jar"
-		},
-		{
-			"addonId": 228105,
-			"fileId": 2235728,
-			"fileName": "ExtraFixes-1.7.10-1.2.4b.jar"
-		},
-		{
-			"addonId": 72728,
-			"fileId": 2299292,
-			"fileName": "ExtraTiC-1.7.10-1.4.6.jar"
-		},
-		{
-			"addonId": 274356,
-			"fileId": 2464062,
-			"fileName": "ExtraUtilitiesTweaks-1.0.0.jar"
-		},
-		{
-			"addonId": 59856,
-			"fileId": 2217447,
-			"fileName": "FlatSigns-1.7.10-universal-2.1.0.19.jar"
-		},
-		{
-			"addonId": 278494,
-			"fileId": 4473363,
-			"fileName": "FoamFix-1.7.10-universal-1.0.4.jar"
-		},
-		{
-			"addonId": 939770,
-			"fileId": 5084485,
-			"fileName": "ExtraUtilities-1.2.12.2.jar"
-		},
-		{
-			"addonId": 939770,
-			"fileId": 4973159,
-			"fileName": "Witchery-0.24.1.4.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 939770,
-			"fileId": 5014068,
-			"fileName": "ThaumicMachina-0.2.1.5.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 253015,
-			"fileId": 2340610,
-			"fileName": "WitcheryPatch-1.7.10-1.0.0.jar",
-			"folder": "mods"
-		},
-		{
-			"addonId": 554840,
-			"fileId": 4367893,
-			"fileName": "Healer-1.2.1.jar"
-		},
-		{
-			"addonId": 229060,
-			"fileId": 2338148,
-			"fileName": "iChunUtil-4.2.3.jar"
-		},
-		{
-			"addonId": 237664,
-			"fileId": 2394877,
-			"fileName": "ironfurnaces-1.2.4R.jar"
-		},
-		{
-			"addonId": 576825,
-			"fileId": 3652651,
-			"fileName": "lucky-block-forge-1.7.10-1.0.jar"
-		},
-		{
-			"addonId": 232150,
-			"fileId": 2245371,
-			"fileName": "magicalcrops-4.0.0_PUBLIC_BETA_5.jar"
-		},
-		{
-			"addonId": 232149,
-			"fileId": 2244865,
-			"fileName": "magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar"
-		},
-		{
-			"addonId": 226294,
-			"fileId": 2381332,
-			"fileName": "MineTweakerRecipeMaker-1.7.10-1.1.1.jar"
-		},
-		{
-			"addonId": 69118,
-			"fileId": 2280761,
-			"fileName": "Morpheus-1.7.10-1.6.21.jar"
-		},
-		{
-			"addonId": 55438,
-			"fileId": 2221679,
-			"fileName": "MrCrayfishFurnitureModv3.4.7(1.7.10).jar"
-		},
-		{
-			"addonId": 229084,
-			"fileId": 2480016,
-			"fileName": "PortalGun-4.0.0-beta-6-fix-1.jar"
-		},
-		{
-			"addonId": 70631,
-			"fileId": 2277490,
-			"fileName": "RedstoneArsenal-[1.7.10]1.1.2-92.jar"
-		},
-		{
-			"addonId": 291788,
-			"fileId": 2863026,
-			"fileName": "ServerTabInfo-1.7.10-Final-b3.jar"
-		},
-		{
-			"addonId": 79325,
-			"fileId": 2267185,
-			"fileName": "SimplyJetpacks-MC1.7.10-1.5.3.jar"
-		},
-		{
-			"addonId": 241344,
-			"fileId": 2279363,
-			"fileName": "Snad-1.7.10-1.6.01.31a.jar"
-		},
-		{
-			"addonId": 226115,
-			"fileId": 2233504,
-			"fileName": "squidless-1.7.10-0.6.1.jar"
-		},
-		{
-			"addonId": 620164,
-			"fileId": 4357794,
-			"fileName": "terralizationcompat-1.7.10-1.0.5.jar"
-		},
-		{
-			"addonId": 227443,
-			"fileId": 2388756,
-			"fileName": "ThermalDynamics-[1.7.10]1.2.1-172.jar"
-		},
-		{
-			"addonId": 69163,
-			"fileId": 2388758,
-			"fileName": "ThermalExpansion-[1.7.10]4.1.5-248.jar"
-		},
-		{
-			"addonId": 222880,
-			"fileId": 2388752,
-			"fileName": "ThermalFoundation-[1.7.10]1.2.6-118.jar"
-		},
-		{
-			"addonId": 244258,
-			"fileId": 2329986,
-			"fileName": "UniDict-1.7.10-2.9.2.jar"
-		},
-		{
-			"addonId": 404877,
-			"fileId": 3043421,
-			"fileName": "Waystones_Jawsawn_Fork-mc1.7.10-1.0.0.jar"
-		},
-		{
-			"addonId": 278475,
-			"fileId": 2482398,
-			"fileName": "zettaindustries-1.1-120.jar"
-		},
-		{
-			"addonId": 826970,
-			"fileId": 6953804,
-			"fileName": "+unimixins-all-1.7.10-0.1.23.jar"
-		},
-		{
-      		"addonId": 233226,
-      		"fileId": 2286652,
-			"fileName":"Thaumaturgical Knowledge-0.1.5.2 - 1.7.10.jar"
-    	},
-		{
-			"addonId": 229302,
-			"fileId": 2414751,
-			"fileName": "BetterLoadingScreen-1.3.10.jar",
-			"folder": "mods",
-			"metadata": {
-				"side": "CLIENT"
-			}
-		},
-		{
-			"addonId":898104,
-			"fileId": 4952979,
-			"fileName": "CarbonConfig-1.7.10-1.1.5.jar",
-			"folder": "mods",
-			"metadata": {
-				"side": "CLIENT"
-			}
-		}
-	]
+   {
+      "addonId": 242638,
+      "fileId": 6833054
+    },
+    {
+      "addonId": 223428,
+      "fileId": 2260928
+    },
+    {
+      "addonId": 939770,
+      "fileId": 4973159
+    },    
+    {
+      "addonId": 939770,
+      "fileId": 5014068
+    },
+    {
+      "addonId": 229060,
+      "fileId": 2338148
+    },
+    {
+      "addonId": 659192,
+      "fileId": 4431133
+    },
+    {
+      "addonId": 233226,
+      "fileId": 2286652
+    },
+    {
+      "addonId": 1117730,
+      "fileId": 7085094
+    },
+    {
+      "addonId": 549437,
+      "fileId": 3536677
+    },
+    {
+      "addonId": 445557,
+      "fileId": 7160929
+    },
+    {
+      "addonId": 235591,
+      "fileId": 4722480
+    },
+    {
+      "addonId": 576825,
+      "fileId": 3652651
+    },
+    {
+      "addonId": 242878,
+      "fileId": 2287047
+    },
+    {
+      "addonId": 229302,
+      "fileId": 2414751
+    },
+    {
+      "addonId": 70631,
+      "fileId": 2277490
+    },
+    {
+      "addonId": 621947,
+      "fileId": 5342314
+    },
+    {
+      "addonId": 228696,
+      "fileId": 2272531
+    },
+    {
+      "addonId": 221849,
+      "fileId": 2216790
+    },
+    {
+      "addonId": 1366088,
+      "fileId": 7111851
+    },
+    {
+      "addonId": 239197,
+      "fileId": 2838720
+    },
+    {
+      "addonId": 237307,
+      "fileId": 3763564
+    },
+    {
+      "addonId": 225561,
+      "fileId": 2264383
+    },
+    {
+      "addonId": 238546,
+      "fileId": 2694970
+    },
+    {
+      "addonId": 242057,
+      "fileId": 4821740
+    },
+    {
+      "addonId": 228015,
+      "fileId": 2316923
+    },
+    {
+      "addonId": 226115,
+      "fileId": 2233504
+    },
+    {
+      "addonId": 229978,
+      "fileId": 2240524
+    },
+    {
+      "addonId": 1365176,
+      "fileId": 7156285
+    },
+    {
+      "addonId": 280824,
+      "fileId": 2707995
+    },
+    {
+      "addonId": 235590,
+      "fileId": 4721192
+    },
+    {
+      "addonId": 235440,
+      "fileId": 2681246
+    },
+    {
+      "addonId": 244258,
+      "fileId": 2329986
+    },
+    {
+      "addonId": 222880,
+      "fileId": 2388752
+    },
+    {
+      "addonId": 575841,
+      "fileId": 3862595
+    },
+    {
+      "addonId": 231262,
+      "fileId": 2241397
+    },
+    {
+      "addonId": 55438,
+      "fileId": 2221679
+    },
+    {
+      "addonId": 223722,
+      "fileId": 2299730
+    },
+    {
+      "addonId": 250898,
+      "fileId": 2673691
+    },
+    {
+      "addonId": 228105,
+      "fileId": 2235728
+    },
+    {
+      "addonId": 237321,
+      "fileId": 2321336
+    },
+    {
+      "addonId": 782158,
+      "fileId": 6881356
+    },
+    {
+      "addonId": 270558,
+      "fileId": 2452853
+    },
+    {
+      "addonId": 688899,
+      "fileId": 7227926
+    },
+    {
+      "addonId": 880635,
+      "fileId": 6503942
+    },
+    {
+      "addonId": 1149501,
+      "fileId": 7224317
+    },
+    {
+      "addonId": 237899,
+      "fileId": 2707992
+    },
+    {
+      "addonId": 239370,
+      "fileId": 2273417
+    },
+    {
+      "addonId": 235442,
+      "fileId": 2666986
+    },
+    {
+      "addonId": 977626,
+      "fileId": 7198164
+    },
+    {
+      "addonId": 238061,
+      "fileId": 2273402
+    },
+    {
+      "addonId": 896591,
+      "fileId": 5187152
+    },
+    {
+      "addonId": 538172,
+      "fileId": 3495519
+    },
+    {
+      "addonId": 72728,
+      "fileId": 2299292
+    },
+    {
+      "addonId": 79325,
+      "fileId": 2267185
+    },
+    {
+      "addonId": 223583,
+      "fileId": 2236243
+    },
+    {
+      "addonId": 228839,
+      "fileId": 2247215
+    },
+    {
+      "addonId": 241319,
+      "fileId": 2323453
+    },
+    {
+      "addonId": 232149,
+      "fileId": 2244865
+    },
+    {
+      "addonId": 221897,
+      "fileId": 2261794
+    },
+    {
+      "addonId": 227048,
+      "fileId": 5624749
+    },
+    {
+      "addonId": 561689,
+      "fileId": 3585575
+    },
+    {
+      "addonId": 1108971,
+      "fileId": 5754144
+    },
+    {
+      "addonId": 233342,
+      "fileId": 2270358
+    },
+    {
+      "addonId": 69163,
+      "fileId": 2388758
+    },
+    {
+      "addonId": 59856,
+      "fileId": 2217447
+    },
+    {
+      "addonId": 233019,
+      "fileId": 2524666
+    },
+    {
+      "addonId": 241994,
+      "fileId": 2282591
+    },
+    {
+      "addonId": 227914,
+      "fileId": 7218512
+    },
+    {
+      "addonId": 228525,
+      "fileId": 2278984
+    },
+    {
+      "addonId": 231868,
+      "fileId": 4671288
+    },
+    {
+      "addonId": 620164,
+      "fileId": 4357794
+    },
+    {
+      "addonId": 229084,
+      "fileId": 2480016
+    },
+    {
+      "addonId": 75598,
+      "fileId": 2232793
+    },
+    {
+      "addonId": 69118,
+      "fileId": 2280761
+    },
+    {
+      "addonId": 782155,
+      "fileId": 7028238
+    },
+    {
+      "addonId": 267193,
+      "fileId": 5632148
+    },
+    {
+      "addonId": 232159,
+      "fileId": 2289306
+    },
+    {
+      "addonId": 77191,
+      "fileId": 2221721
+    },
+    {
+      "addonId": 235596,
+      "fileId": 4721191
+    },
+    {
+      "addonId": 59413,
+      "fileId": 2218324
+    },
+    {
+      "addonId": 230867,
+      "fileId": 3034568
+    },
+    {
+      "addonId": 232182,
+      "fileId": 2246204
+    },
+    {
+      "addonId": 554840,
+      "fileId": 4367893
+    },
+    {
+      "addonId": 221857,
+      "fileId": 2270206
+    },
+    {
+      "addonId": 274356,
+      "fileId": 2464062
+    },
+    {
+      "addonId": 291788,
+      "fileId": 2863026
+    },
+    {
+      "addonId": 222153,
+      "fileId": 2285272
+    },
+    {
+      "addonId": 1018962,
+      "fileId": 6151131
+    },
+    {
+      "addonId": 225341,
+      "fileId": 2292232
+    },
+    {
+      "addonId": 227443,
+      "fileId": 2388756
+    },
+    {
+      "addonId": 898104,
+      "fileId": 5504468
+    },
+    {
+      "addonId": 677782,
+      "fileId": 6785841
+    },
+    {
+      "addonId": 1302894,
+      "fileId": 6801938
+    },
+    {
+      "addonId": 533411,
+      "fileId": 3479729
+    },
+    {
+      "addonId": 746279,
+      "fileId": 7218526
+    },
+    {
+      "addonId": 278475,
+      "fileId": 2482398
+    },
+    {
+      "addonId": 1095442,
+      "fileId": 6707128
+    },
+    {
+      "addonId": 237664,
+      "fileId": 2394877
+    },
+    {
+      "addonId": 236188,
+      "fileId": 2582707
+    },
+    {
+      "addonId": 72503,
+      "fileId": 2272713
+    },
+    {
+      "addonId": 260616,
+      "fileId": 2381644
+    },
+    {
+      "addonId": 358228,
+      "fileId": 7228823
+    },
+    {
+      "addonId": 278494,
+      "fileId": 4473363
+    },
+    {
+      "addonId": 688894,
+      "fileId": 7240372
+    },
+    {
+      "addonId": 229664,
+      "fileId": 2261689
+    },
+    {
+      "addonId": 74610,
+      "fileId": 2409469
+    },
+    {
+      "addonId": 235602,
+      "fileId": 4721209
+    },
+    {
+      "addonId": 227875,
+      "fileId": 2227584
+    },
+    {
+      "addonId": 223628,
+      "fileId": 2227552
+    },
+    {
+      "addonId": 961344,
+      "fileId": 6762189
+    },
+    {
+      "addonId": 1312823,
+      "fileId": 6974387
+    },
+    {
+      "addonId": 404877,
+      "fileId": 3043421
+    },
+    {
+      "addonId": 1056309,
+      "fileId": 5893150
+    },
+    {
+      "addonId": 60092,
+      "fileId": 2219018
+    },
+    {
+      "addonId": 826970,
+      "fileId": 6953804
+    },
+    {
+      "addonId": 227388,
+      "fileId": 2239468
+    },
+    {
+      "addonId": 235612,
+      "fileId": 4721207
+    },
+    {
+      "addonId": 69162,
+      "fileId": 2388750
+    },
+    {
+      "addonId": 235594,
+      "fileId": 4721198
+    },
+    {
+      "addonId": 224440,
+      "fileId": 2262112
+    },
+    {
+      "addonId": 318012,
+      "fileId": 5141051
+    },
+    {
+      "addonId": 1099276,
+      "fileId": 7222204
+    },
+    {
+      "addonId": 226294,
+      "fileId": 2381332
+    },
+    {
+      "addonId": 241344,
+      "fileId": 2279363
+    },
+    {
+      "addonId": 64578,
+      "fileId": 4671445
+    },
+    {
+      "addonId": 230977,
+      "fileId": 2930179
+    },
+    {
+      "addonId": 232150,
+      "fileId": 2245371
+    },
+    {
+      "addonId": 225815,
+      "fileId": 2323485
+    },
+    {
+      "addonId": 220954,
+      "fileId": 2313730
+    },
+    {
+      "addonId": 1165604,
+      "fileId": 6128934
+    },
+    {
+      "addonId": 431297,
+      "fileId": 7157166
+    },
+    {
+      "addonId": 237593,
+      "fileId": 2299527
+    },
+    {
+      "addonId": 255308,
+      "fileId": 5875775
+    },
+    {
+      "addonId": 225095,
+      "fileId": 2241913
+    },
+    {
+      "addonId": 223735,
+      "fileId": 2257644
+    },
+    {
+      "addonId": 1034746,
+      "fileId": 5537911
+    },
+    {
+      "addonId": 284811,
+      "fileId": 7160957
+    },
+    {
+      "addonId": 32274,
+      "fileId": 6706111
+    },
+    {
+      "addonId": 222789,
+      "fileId": 2224003
+    }
+  ]
 }

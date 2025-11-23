@@ -636,26 +636,26 @@
     }
   },
   "EnderIO": {
-    "file_path": "../minecraft/mods/EnderIO-1.7.10-2.3.0.430_beta.jar",
+    "file_path": "../minecraft/mods/EnderIO-2.10.4-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
+    "source": "https://github.com/GTNewHorizons/EnderIO",
     "notes": "",
     "wanted_by": [],
-    "wants": ["endercore"],
+    "wants": ["endercore", "CoFHLib", "gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0",
+      "version": "2.10.4-pre",
       "disable_check": false,
-      "frequency": "EOL",
+      "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
+      "last_updated_at": "2025-11-23T16:20:48.991Z",
+      "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "EnderStorage": {
-    "file_path": "../minecraft/mods/EnderStorage-1.7.7.jar",
+    "file_path": "../minecraft/mods/EnderStorage-1.8.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/EnderStorage",
     "notes": "",
@@ -664,7 +664,7 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.7.7",
+      "version": "1.8.0",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
@@ -999,19 +999,19 @@
   "HardcoreEnderExpansion": {
     "file_path": "../minecraft/mods/HardcoreEnderExpansion-1.12.15-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
+    "source": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion",
     "notes": "",
     "wanted_by": [],
     "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0",
+      "version": "1.12.15-GTNH",
       "disable_check": false,
-      "frequency": "EOL",
+      "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
+      "last_updated_at": "2025-11-23T16:20:48.993Z",
+      "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
@@ -2114,7 +2114,7 @@
     }
   },
   "StorageDrawers": {
-    "file_path": "../minecraft/mods/StorageDrawers-2.2.3-GTNH.jar",
+    "file_path": "../minecraft/mods/StorageDrawers-2.2.4-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/StorageDrawers",
     "notes": "",
@@ -2129,11 +2129,11 @@
       "StorageDrawersMisc"
     ],
     "update_state": {
-      "version": "2.2.3-GTNH",
+      "version": "2.2.4-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.828Z",
+      "last_updated_at": "2025-11-23T16:20:48.989Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2383,7 +2383,7 @@
     }
   },
   "ThaumicHorizons": {
-    "file_path": "../minecraft/mods/ThaumicHorizons-1.8.9.jar",
+    "file_path": "../minecraft/mods/ThaumicHorizons-1.8.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicHorizons",
     "notes": "",
@@ -2392,11 +2392,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.8.9",
+      "version": "1.8.10",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T19:12:34.730Z",
+      "last_updated_at": "2025-11-23T16:20:48.988Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2725,7 +2725,7 @@
     }
   },
   "WitcheryExtras": {
-    "file_path": "../minecraft/mods/WitcheryExtras-1.4.1-pre.jar",
+    "file_path": "../minecraft/mods/WitcheryExtras-1.4.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WitcheryExtras",
     "notes": "",
@@ -2734,11 +2734,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.4.1-pre",
+      "version": "1.4.2",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.826Z",
+      "last_updated_at": "2025-11-23T16:20:48.986Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2833,7 +2833,7 @@
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.825Z",
+      "last_updated_at": "2025-11-23T16:25:38.484Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2852,7 +2852,7 @@
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.801Z",
+      "last_updated_at": "2025-11-23T16:25:38.483Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2988,11 +2988,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "rv3-beta-748-GTNH",
+      "version": "rv3-beta-749-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.825Z",
+      "last_updated_at": "2025-11-23T16:25:38.484Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -3744,21 +3744,21 @@
     }
   },
   "endercore": {
-    "file_path": "../minecraft/mods/EnderCore-1.7.10-0.2.0.40_beta.jar",
+    "file_path": "../minecraft/mods/endercore-0.5.1-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
+    "source": "https://github.com/GTNewHorizons/EnderCore",
     "notes": "",
     "wanted_by": ["EnderIO"],
     "wants": [],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0",
+      "version": "0.5.1-pre",
       "disable_check": false,
-      "frequency": "EOL",
+      "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
+      "last_updated_at": "2025-11-23T16:20:48.986Z",
+      "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
@@ -3991,7 +3991,7 @@
     }
   },
   "gadomancy": {
-    "file_path": "../minecraft/mods/gadomancy-1.5.2.jar",
+    "file_path": "../minecraft/mods/gadomancy-1.5.3.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Gadomancy",
     "notes": "",
@@ -4000,11 +4000,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.5.2",
+      "version": "1.5.3",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.802Z",
+      "last_updated_at": "2025-11-23T16:20:48.991Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4048,7 +4048,7 @@
     }
   },
   "gtnhlib": {
-    "file_path": "../minecraft/mods/gtnhlib-0.8.12.jar",
+    "file_path": "../minecraft/mods/gtnhlib-0.8.13.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/GTNHLib",
     "notes": "",
@@ -4069,17 +4069,18 @@
       "neid",
       "JABBA",
       "StorageDrawers",
-      "HardcoreEnderExpansion"
+      "HardcoreEnderExpansion",
+      "EnderIO"
     ],
     "wants": [],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.8.12",
+      "version": "0.8.13",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.863Z",
+      "last_updated_at": "2025-11-23T16:20:48.995Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4617,7 +4618,7 @@
     }
   },
   "modularui2": {
-    "file_path": "../minecraft/mods/modularui2-2.3.13-1.7.10.jar",
+    "file_path": "../minecraft/mods/modularui2-2.3.15-1.7.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ModularUI2",
     "notes": "",
@@ -4626,11 +4627,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.3.13-1.7.10",
+      "version": "2.3.15-1.7.10",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-13T00:39:15.680Z",
+      "last_updated_at": "2025-11-23T16:20:48.987Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
