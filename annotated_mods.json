@@ -491,7 +491,7 @@
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
-    "wanted_by": ["aifix"],
+    "wanted_by": ["aifix", "chromatinei"],
     "wants": ["DragonAPI"],
     "enabled": true,
     "other_mod_ids": [],
@@ -636,7 +636,7 @@
     }
   },
   "EnderIO": {
-    "file_path": "../minecraft/mods/EnderIO-2.10.4-pre.jar",
+    "file_path": "../minecraft/mods/EnderIO-2.10.5.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/EnderIO",
     "notes": "",
@@ -645,11 +645,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.10.4-pre",
+      "version": "2.10.5",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-23T16:20:48.991Z",
+      "last_updated_at": "2025-11-26T15:44:03.809Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -1584,7 +1584,7 @@
     }
   },
   "NotEnoughItems": {
-    "file_path": "../minecraft/mods/NotEnoughItems-2.8.39-GTNH.jar",
+    "file_path": "../minecraft/mods/NotEnoughItems-2.8.40-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/NotEnoughItems",
     "notes": "",
@@ -1601,11 +1601,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.8.39-GTNH",
+      "version": "2.8.40-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.829Z",
+      "last_updated_at": "2025-11-26T15:44:03.808Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2744,7 +2744,7 @@
     }
   },
   "WitchingGadgets": {
-    "file_path": "../minecraft/mods/WitchingGadgets-1.8.10-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/WitchingGadgets-1.8.11-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WitchingGadgets",
     "notes": "",
@@ -2753,11 +2753,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.8.10-GTNH-pre",
+      "version": "1.8.11-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.826Z",
+      "last_updated_at": "2025-11-26T15:44:03.808Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -2831,7 +2831,7 @@
     "update_state": {
       "version": "1.5.26-gtnh",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-23T16:25:38.484Z",
       "source_type": "GH_RELEASE",
@@ -2850,7 +2850,7 @@
     "update_state": {
       "version": "0.10.3-GTNH-pre",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-23T16:25:38.483Z",
       "source_type": "GH_RELEASE",
@@ -2869,7 +2869,7 @@
     "update_state": {
       "version": "1.12.8-pre",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-12T14:30:11.637Z",
       "source_type": "GH_RELEASE",
@@ -2990,7 +2990,7 @@
     "update_state": {
       "version": "rv3-beta-749-GTNH",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-23T16:25:38.484Z",
       "source_type": "GH_RELEASE",
@@ -3242,7 +3242,7 @@
     "update_state": {
       "version": "1.4.3",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-19T23:00:43.800Z",
       "source_type": "GH_RELEASE",
@@ -3379,6 +3379,25 @@
       "last_status": "200",
       "last_updated_at": "",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "chromatinei": {
+    "file_path": "../minecraft/mods/chromatinei-2.4.2-main+a0e4944030-dirty.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["ChromatiCraft"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "2.4.2-main+a0e4944030-dirty",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -4048,7 +4067,7 @@
     }
   },
   "gtnhlib": {
-    "file_path": "../minecraft/mods/gtnhlib-0.8.13.jar",
+    "file_path": "../minecraft/mods/gtnhlib-0.8.14.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/GTNHLib",
     "notes": "",
@@ -4076,11 +4095,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.8.13",
+      "version": "0.8.14",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-23T16:20:48.995Z",
+      "last_updated_at": "2025-11-26T15:44:03.811Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4162,7 +4181,7 @@
     }
   },
   "hodgepodge": {
-    "file_path": "../minecraft/mods/hodgepodge-2.7.17.jar",
+    "file_path": "../minecraft/mods/hodgepodge-2.7.18.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Hodgepodge",
     "notes": "",
@@ -4171,11 +4190,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.7.17",
+      "version": "2.7.18",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.799Z",
+      "last_updated_at": "2025-11-26T15:44:03.806Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4542,7 +4561,7 @@
     }
   },
   "mobsinfo": {
-    "file_path": "../minecraft/mods/mobsinfo-0.5.7-GTNH.jar",
+    "file_path": "../minecraft/mods/mobsinfo-0.5.8-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Mobs-Info",
     "notes": "",
@@ -4551,11 +4570,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.5.7-GTNH",
+      "version": "0.5.8-GTNH",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-19T23:00:43.799Z",
+      "last_updated_at": "2025-11-26T15:44:03.805Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4599,7 +4618,7 @@
     }
   },
   "modularui": {
-    "file_path": "../minecraft/mods/modularui-1.3.0.jar",
+    "file_path": "../minecraft/mods/modularui-1.3.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ModularUI",
     "notes": "",
@@ -4608,17 +4627,17 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "1.3.0",
+      "version": "1.3.1",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-09T03:46:40.240Z",
+      "last_updated_at": "2025-11-26T15:44:03.806Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
   "modularui2": {
-    "file_path": "../minecraft/mods/modularui2-2.3.15-1.7.10.jar",
+    "file_path": "../minecraft/mods/modularui2-2.3.16-1.7.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ModularUI2",
     "notes": "",
@@ -4627,11 +4646,11 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "2.3.15-1.7.10",
+      "version": "2.3.16-1.7.10",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
-      "last_updated_at": "2025-11-23T16:20:48.987Z",
+      "last_updated_at": "2025-11-26T15:44:03.807Z",
       "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
@@ -4686,7 +4705,7 @@
     "update_state": {
       "version": "1.7.16-pre",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-19T23:00:43.798Z",
       "source_type": "GH_RELEASE",
@@ -5389,7 +5408,7 @@
     "update_state": {
       "version": "1.7.14-GTNH",
       "disable_check": false,
-      "frequency": "COMMON",
+      "frequency": "EOL",
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.217Z",
       "source_type": "GH_RELEASE",
