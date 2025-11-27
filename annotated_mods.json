@@ -1274,7 +1274,7 @@
     }
   },
   "LogisticsPipes": {
-    "file_path": "../minecraft/mods/logisticspipes-1.5.6-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/logisticspipes-1.5.7-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/LogisticsPipes",
     "notes": "",
@@ -1924,7 +1924,7 @@
     }
   },
   "Sanguimancy": {
-    "file_path": "../minecraft/mods/Sanguimancy-1.7.10-1.1.9-35.jar",
+    "file_path": "../minecraft/mods/Sanguimancy-1.7.10-1.1.10-LE.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -2139,7 +2139,7 @@
     }
   },
   "SuperTic": {
-    "file_path": "../minecraft/mods/SuperTic-1.5.3-pre.jar",
+    "file_path": "../minecraft/mods/SuperTic-1.5.4.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Super-TiC",
     "notes": "",
@@ -2421,7 +2421,7 @@
     }
   },
   "ThaumicTinkerer": {
-    "file_path": "../minecraft/mods/ThaumicTinkerer-2.5-1.7.10-164.jar",
+    "file_path": "../minecraft/mods/ThaumicTinkerer-[1.7.10] 2.5-550-K-0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicTinkerer",
     "notes": "",
@@ -3060,7 +3060,7 @@
     }
   },
   "arsmagica2": {
-    "file_path": "../minecraft/mods/AM2.5-LTS-1.7.5-RE.jar",
+    "file_path": "../minecraft/mods/AM2.5-LTS-1.7.6-RE.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -3383,7 +3383,7 @@
     }
   },
   "chromatinei": {
-    "file_path": "../minecraft/mods/chromatinei-2.4.2-main+a0e4944030-dirty.jar",
+    "file_path": "../minecraft/mods/chromatinei-2.4.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -3554,7 +3554,7 @@
     }
   },
   "cosmeticarmorreworked": {
-    "file_path": "../minecraft/mods/CosmeticArmorReworked-1.7.10-v7.jar",
+    "file_path": "../minecraft/mods/cosmeticarmorreworked-1.7.10-v7fork1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -4751,13 +4751,13 @@
     }
   },
   "neresources": {
-    "file_path": "../minecraft/mods/NotEnoughResources-1.7.10-0.1.0-128.jar",
+    "file_path": "../minecraft/mods/NotEnoughResources-1.7.10-0.1.0-128.jar.disabled",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": [],
     "wants": ["NotEnoughItems"],
-    "enabled": true,
+    "enabled": false,
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
@@ -5545,6 +5545,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T03:46:40.216Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "txloader": {
+    "file_path": "../minecraft/mods/txloader-1.8.6-pre.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.8.6-pre",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
