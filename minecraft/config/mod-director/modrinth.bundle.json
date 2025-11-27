@@ -1,0 +1,41 @@
+{
+	"modrinth":
+	[
+		{
+			"addonId": "mekanism-community-edition",
+			"fileId": "9.10.46",
+			"fileName": "Mekanism-Community-Edition-1.7.10-9.10.46-ALL.jar",
+			"folder": "mods"
+		},
+		{
+			"addonId": "advanced-machines-uuum",
+			"fileId": "59.0.2",
+			"fileName": "advanced-machines-59.0.2.jar",
+			"folder": "mods"
+		},
+		{
+			"addonId": "immibis-core",
+			"fileId": "59.1.4",
+			"fileName": "immibis-core-59.1.4.jar",
+			"folder": "mods"
+		},
+		{
+			"addonId": "forgotten-relics-unofficial",
+			"fileId": "1.7.4",
+			"fileName": "ForgottenRelics-1.7.10-1.7.4.jar",
+			"folder": "mods"
+		},
+		{
+			"addonId": "witcherypatch",
+			"fileId": "1.0.0",
+			"fileName": "WitcheryPatch-1.7.10-1.0.0-mr.jar",
+			"folder": "mods"
+		},
+		{
+			"addonId": "bugtorch",
+			"fileId": "1.2.14",
+			"fileName": "bugtorch-1.2.14.jar",
+			"folder": "mods"
+		}
+	]
+}

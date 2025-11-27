@@ -1,5 +1,3 @@
-mods.ic2.Macerator.addRecipe(<IC2:itemBiochaff>, <minecraft:apple>*16);
-
 recipes.remove(<Botania:craftingHalo>);
 recipes.addShaped(<Botania:craftingHalo>, [[<ore:gemEmerald>, <ore:manaPearl>, <ore:gemEmerald>], [<ore:ingotManasteel>, <RotaryCraft:rotarycraft_item_handcraft>, <ore:ingotManasteel>], [<ore:gemEmerald>, <ore:ingotManasteel>, <ore:gemEmerald>]]);
 
