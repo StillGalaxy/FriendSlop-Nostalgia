@@ -564,7 +564,12 @@
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
-    "wanted_by": ["ChromatiCraft", "ElectriCraft", "ExpandedRedstone"],
+    "wanted_by": [
+      "ChromatiCraft",
+      "ElectriCraft",
+      "ExpandedRedstone",
+      "ReactorCraft"
+    ],
     "wants": [],
     "enabled": true,
     "other_mod_ids": [],
@@ -1844,6 +1849,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-09T13:15:02.641Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "ReactorCraft": {
+    "file_path": "../minecraft/mods/ReactorCraft 1.7.10 V33a.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["DragonAPI"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "V33a",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -4324,6 +4348,25 @@
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
+      "file_pattern": ""
+    }
+  },
+  "jaopca": {
+    "file_path": "../minecraft/mods/JAOPCA-1.7.10-W.0.8.31.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": [],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "W.0.8.31",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
