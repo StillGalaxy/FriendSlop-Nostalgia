@@ -4751,13 +4751,13 @@
     }
   },
   "neresources": {
-    "file_path": "../minecraft/mods/NotEnoughResources-1.7.10-0.1.0-128.jar.disabled",
+    "file_path": "../minecraft/mods/NotEnoughResources-1.7.10-0.1.0-128.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": [],
     "wants": ["NotEnoughItems"],
-    "enabled": false,
+    "enabled": true,
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
