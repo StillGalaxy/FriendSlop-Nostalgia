@@ -13,3 +13,5 @@ blockStencilTable.add(<TConstruct:ToolStationBlock:12>);
 <ore:itemCertusCrystalSeed>.add(<appliedenergistics2:item.ItemCrystalSeed>);
 <ore:itemQuartzCrystalSeed>.add(<appliedenergistics2:item.ItemCrystalSeed:600>);
 <ore:itemFluixCrystalSeed>.add(<appliedenergistics2:item.ItemCrystalSeed:1200>);
+
+<ore:blockCharcoal>.add(<zettaindustries:charcoalblock>);

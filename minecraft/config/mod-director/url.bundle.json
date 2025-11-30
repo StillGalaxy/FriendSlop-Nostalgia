@@ -281,7 +281,8 @@
 			"url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.4-GTNH/ProjRed-4.12.4-GTNH.jar"
 		},
 		{
-			"url": "https://forum.industrial-craft.net/core/attachment/4316-advancedsolarpanel-1-7-10-3-5-1-jar/"
+			"url": "https://forum.industrial-craft.net/core/attachment/4316-advancedsolarpanel-1-7-10-3-5-1-jar/",
+			"fileName": "AdvancedSolarPanel-1.7.10-3.5.1.jar"
 		},		
 		{
 			"url": "https://github.com/MalTeeez/Aquaculture/releases/download/1.7.10-1.2.7/Aquaculture-1.7.10-1.2.7.jar"
@@ -290,7 +291,7 @@
 			"url": "https://github.com/PufferTeam-ModArchive/Thaumic-Dyes/releases/download/1.10.11-JB/thaumicdyes-1.10.11-JB.jar"
 		},
 		{
-			"url": "https://github.com/ABKQPO/Modernity-GTNH/releases/download/commit-e73c649/MyCTMLib-v1.2.5_28x.jar"
+			"url": "https://github.com/ABKQPO/MyCTMLib/releases/download/v1.2.5_28x/MyCTMLib-v1.2.5_28x.jar"
 		},
 		{
 			"url": "https://github.com/GTNewHorizons/TX-Loader/releases/download/1.8.6-pre/txloader-1.8.6-pre.jar"
