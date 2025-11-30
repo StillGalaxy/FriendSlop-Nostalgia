@@ -36,7 +36,6 @@ recipes.remove(<ThermalFoundation:lexicon>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
-recipes.removeShapeless(<Botania:fertilizer>, [<minecraft:dye:15>, <minecraft:dye:11>, <minecraft:dye:11>, <minecraft:dye:1>, <minecraft:dye:1>]);
 recipes.removeShapeless(<IC2:itemIngot:2> * 4, [<ore:ingotTin>, <ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]);
 
 // ================================================================================
