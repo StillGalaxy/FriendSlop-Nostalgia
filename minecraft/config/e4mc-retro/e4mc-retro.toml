@@ -17,7 +17,7 @@ relayPort = 25575
 useInsecureTLS = false
 # Allows use of certain dedicated server commands such as /ban and /whitelist
 # default: true
-restoreDedicatedCommands = true
+restoreDedicatedCommands = false
 # Whether to use whitelists on LAN worlds
 # default: false
 useWhiteList = false
