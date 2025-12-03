@@ -3016,7 +3016,7 @@
     }
   },
   "angelica": {
-    "file_path": "../minecraft/mods/angelica-1.0.0-beta71-pre.jar",
+    "file_path": "../minecraft/mods/angelica-1.0.0-beta72-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Angelica",
     "notes": "",
@@ -3025,7 +3025,7 @@
     "enabled": true,
     "other_mod_ids": ["notfine", "embeddium", "mcpatcherforge"],
     "update_state": {
-      "version": "1.0.0-beta71-pre",
+      "version": "1.0.0-beta72-pre",
       "disable_check": false,
       "frequency": "COMMON",
       "last_status": "200",
@@ -4662,13 +4662,13 @@
     }
   },
   "mods": {
-    "file_path": "../minecraft/mods/!mod-director-launchwrapper-1.9.1fork6.jar.disabled",
+    "file_path": "../minecraft/mods/!mod-director-launchwrapper-1.9.1fork6.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": [],
     "wants": [],
-    "enabled": false,
+    "enabled": true,
     "other_mod_ids": [],
     "update_state": {
       "version": "/!mod-director-launchwrapper-1.9.1fork6",
