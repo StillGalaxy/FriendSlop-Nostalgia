@@ -3125,7 +3125,7 @@
   "arsmagica2": {
     "file_path": "../minecraft/mods/AM2.5-LTS-1.7.6-RE.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
+    "source": "https://github.com/RubilaxXxx/ArsMagica2-5/releases",
     "notes": "",
     "wanted_by": [],
     "wants": ["AnimationAPI"],
@@ -3134,10 +3134,10 @@
     "update_state": {
       "version": "0",
       "disable_check": false,
-      "frequency": "EOL",
+      "frequency": "COMMON",
       "last_status": "200",
       "last_updated_at": "",
-      "source_type": "OTHER",
+      "source_type": "GH_RELEASE",
       "file_pattern": ""
     }
   },
@@ -4130,7 +4130,7 @@
     }
   },
   "gtnhlib": {
-    "file_path": "../minecraft/mods/gtnhlib-0.8.15.jar",
+    "file_path": "../minecraft/mods/gtnhlib-0.8.18.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/GTNHLib",
     "notes": "",
@@ -4244,7 +4244,7 @@
     }
   },
   "hodgepodge": {
-    "file_path": "../minecraft/mods/hodgepodge-2.7.18.jar",
+    "file_path": "../minecraft/mods/hodgepodge-2.7.19.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Hodgepodge",
     "notes": "",
