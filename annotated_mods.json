@@ -4776,7 +4776,7 @@
     }
   },
   "randomboubles": {
-    "file_path": "../minecraft/mods/randomboubles-1.0.7-pre.jar",
+    "file_path": "../minecraft/mods/randomboubles-1.1.0.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/RandomBoubles",
     "notes": "",
