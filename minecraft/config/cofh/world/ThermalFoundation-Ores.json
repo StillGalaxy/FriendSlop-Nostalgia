@@ -2,16 +2,16 @@
     "copper": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
-        "clusterSize": 8,
-        "numClusters": 10,
-        "minHeight": 40,
-        "maxHeight": 75,
-        "retrogen": "true",
+        "clusterSize": 0,
+        "numClusters": 0,
+        "minHeight": 0,
+        "maxHeight": 0,
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
         ],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
             -1,
             1
@@ -22,8 +22,8 @@
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 8,
         "numClusters": 8,
-        "minHeight": 20,
-        "maxHeight": 55,
+        "minHeight": 22,
+        "maxHeight": 64,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -43,8 +43,8 @@
         ],
         "clusterSize": 8,
         "numClusters": 6,
-        "minHeight": 5,
-        "maxHeight": 30,
+        "minHeight": 22,
+        "maxHeight": 40,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -64,8 +64,8 @@
         ],
         "clusterSize": 8,
         "numClusters": 8,
-        "minHeight": 10,
-        "maxHeight": 35,
+        "minHeight": 22,
+        "maxHeight": 45,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -82,8 +82,8 @@
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
         "clusterSize": 4,
         "numClusters": 3,
-        "minHeight": 5,
-        "maxHeight": 20,
+        "minHeight": 22,
+        "maxHeight": 42,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -104,8 +104,8 @@
         ],
         "clusterSize": 3,
         "numClusters": 1,
-        "minHeight": 5,
-        "maxHeight": 30,
+        "minHeight": 22,
+        "maxHeight": 52,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -120,16 +120,16 @@
     "copperHigh": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
-        "clusterSize": 8,
-        "numClusters": 8,
-        "minHeight": 48,
-        "maxHeight": 96,
+        "clusterSize": 0,
+        "numClusters": 0,
+        "minHeight": 0,
+        "maxHeight": 0,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
         ],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
             -1,
             1
