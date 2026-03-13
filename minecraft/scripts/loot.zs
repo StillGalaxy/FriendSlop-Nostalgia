@@ -8,7 +8,9 @@ vanilla.loot.addChestLoot("dungeonChest", <IC2:itemArmorBronzeBoots>.weight(8), 
 
 vanilla.loot.removeChestLoot("villageBlacksmith", <IguanaTweaksTConstruct:wearableBucket>);
 vanilla.loot.removeChestLoot("strongholdLibrary", <IguanaTweaksTConstruct:wearableBucket>);
-
+vanilla.loot.removeChestLoot("dungeonChest", <IC2:itemOreIridium>);
+vanilla.loot.removeChestLoot("dungeonChest", <PortalGun:PortalGunBlue:*>);
+vanilla.loot.removeChestLoot("dungeonChest", <PortalGun:PortalGunOrange:*>);
 //add AcademyCraft resources into loot chest.
 vanilla.loot.addChestLoot("dungeonChest", <academy-craft:ac_Item_resoCrystal>.weight(15));
 vanilla.loot.addChestLoot("dungeonChest", <academy-craft:ac_Item_crystalLow>.weight(15));
