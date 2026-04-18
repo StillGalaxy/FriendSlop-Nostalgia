@@ -31,6 +31,18 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/AM2/SkillConf.cfg"
         },
         {
+            "path": "minecraft/config/ASJCore/core.cfg",
+            "hash": "8c647a17d6298a695e1f6c0b17421211125c789521506ebead14b183f559f009",
+            "size": 2518,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/ASJCore/core.cfg"
+        },
+        {
+            "path": "minecraft/config/ASJCore/mod.cfg",
+            "hash": "5f7b30a1913935804f32287fb6bd6ff53e4723e8930ce5b0b9672382b3709538",
+            "size": 5462,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/ASJCore/mod.cfg"
+        },
+        {
             "path": "minecraft/config/ASJCore.cfg",
             "hash": "73310d01dd31c935121ea08acc852e8a44b3eb01348a0d6a66731e6356d4536e",
             "size": 6037,
@@ -1057,6 +1069,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/IC2NuclearControl.cfg"
         },
         {
+            "path": "minecraft/config/IDConflictsViewer.cfg",
+            "hash": "7ea39707efe65b2a4f3c1dd08c027e84a2db6c400341797cbe890b6cf7d4a57c",
+            "size": 1079,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/IDConflictsViewer.cfg"
+        },
+        {
             "path": "minecraft/config/INpureProjects/INpureCore/INpureCore.cfg",
             "hash": "931479db8b3df72bd7fcf77c4382f7ce319bd1a1096bca6be9ee484507ec6ed1",
             "size": 642,
@@ -1397,6 +1415,12 @@
             "hash": "d426ff4c5f7dc11e37552b550726d876301215deaafe75b66c98d80f51878a9a",
             "size": 2273,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/NEIAddons.cfg"
+        },
+        {
+            "path": "minecraft/config/NEICustomDiagram.cfg",
+            "hash": "f8b349064df17952d1ec1937b88afeb788b83f09f6c613e9577e151ca5b16a1b",
+            "size": 6551,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/NEICustomDiagram.cfg"
         },
         {
             "path": "minecraft/config/NEID.cfg",
@@ -2677,6 +2701,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/antiquities.cfg"
         },
         {
+            "path": "minecraft/config/aquaacrobatics.cfg",
+            "hash": "af3070a2632761eeaa82ac02b0631537e371f4f65fce40bf6c1d232f0faec6c2",
+            "size": 5785,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/aquaacrobatics.cfg"
+        },
+        {
             "path": "minecraft/config/arcanearteries.cfg",
             "hash": "bad0f595078923241839cca1283b1e0a4573995932e7151597df9a0741b70d21",
             "size": 3778,
@@ -3329,6 +3359,12 @@
             "hash": "7334836e2ecef705e04b9c3d0046d17885566485b0661488ce62c2a7b962807e",
             "size": 1597,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/fairylights.cfg"
+        },
+        {
+            "path": "minecraft/config/fether.cfg",
+            "hash": "d12ded1eb379ba526628c55ec044babf6294f60481b3b54b42e2153da420655b",
+            "size": 3049,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/fether.cfg"
         },
         {
             "path": "minecraft/config/foamfix.cfg",
@@ -5389,6 +5425,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/roguelike_dungeons/roguelike.cfg"
         },
         {
+            "path": "minecraft/config/salisarcana/addons.cfg",
+            "hash": "6cca93535e02eb9f0844c3d9146ce4998d7865a06eb194b93b72762613a5e52b",
+            "size": 198,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/salisarcana/addons.cfg"
+        },
+        {
             "path": "minecraft/config/salisarcana/bugfixes.cfg",
             "hash": "63a2ace5affeaf9d6d4533daaabcd73a79626b8faa70fefd0f76d225ad85bba4",
             "size": 11372,
@@ -5659,16 +5701,34 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/zettaindustries.cfg"
         },
         {
+            "path": "minecraft/mods/!mod-director-launchwrapper-1.9.1fork6.jar",
+            "hash": "e621cf4e63c7ad91fd97620ecff0f3426a23bd03ceff8ae16087d49cfa0cbe18",
+            "size": 2941737,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/!mod-director-launchwrapper-1.9.1fork6.jar"
+        },
+        {
             "path": "minecraft/mods/+unimixins-all-1.7.10-0.2.1.jar",
             "hash": "69ecf53ec808c1219fc40b98c2464b4546f035e401591effd0229a2787e10666",
             "size": 5710137,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/+unimixins-all-1.7.10-0.2.1.jar"
         },
         {
+            "path": "minecraft/mods/.index/file-director-incremental-mod-downloading.pw.toml",
+            "hash": "764052604aed73b59430222b76381675381d38611277e2a951c09bf74f03bf03",
+            "size": 882,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/.index/file-director-incremental-mod-downloading.pw.toml"
+        },
+        {
             "path": "minecraft/mods/1.7.10/ForgeMultipart-1.7.3.jar",
             "hash": "b0c4eb744c2eb9aab2d90e0a4af008726a070b6a57bc7572832c81f99e406c0b",
             "size": 943173,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/1.7.10/ForgeMultipart-1.7.3.jar"
+        },
+        {
+            "path": "minecraft/mods/1.7.10-ASJCore-1.6.0.1.jar",
+            "hash": "cb43c4ac64617df95379bfa215fa7c2dfc2a20e8bdfab03e0e541e9f08b3a3f9",
+            "size": 3129880,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/1.7.10-ASJCore-1.6.0.1.jar"
         },
         {
             "path": "minecraft/mods/AFSU-1.3.1-GTNH.jar",
@@ -5681,6 +5741,12 @@
             "hash": "d3acb330462ce6c6bc9393d5f2b1dc986e1349b377b023c86d4ccb7236e8bcf4",
             "size": 34228,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/AIImprovements-1.7.10-0.0.1b8.jar"
+        },
+        {
+            "path": "minecraft/mods/AM2.5-LTS-1.8.3-RE.jar",
+            "hash": "fbc7cc7a5673008e4cd4d7566ad8877655e72d991cbe8a4e6abb004f5258d4f2",
+            "size": 35860170,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/AM2.5-LTS-1.8.3-RE.jar"
         },
         {
             "path": "minecraft/mods/AcademyCraft-1.0.7.jar",
@@ -5707,10 +5773,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Aether.Legacy.Departure.V1.1.1.1.7.10.jar"
         },
         {
+            "path": "minecraft/mods/Alfheim-65.jar",
+            "hash": "0217dc85745df8fa07cbe90aaf6439c7cf9593220665fda0791b2630969b3493",
+            "size": 59856893,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Alfheim-65.jar"
+        },
+        {
             "path": "minecraft/mods/AnimationAPI-1.7.10-1.2.4.jar",
             "hash": "57e68a303740e7b09ee05ed1fd6da342a1c2dc7d3f14ae283d71cbd35673f7b6",
             "size": 14859,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/AnimationAPI-1.7.10-1.2.4.jar"
+        },
+        {
+            "path": "minecraft/mods/AppleCore-3.3.9.jar",
+            "hash": "742af5bfe33b92d5fc67f862b536284ae20912b19568e5aacd37b57304c8351b",
+            "size": 102192,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/AppleCore-3.3.9.jar"
         },
         {
             "path": "minecraft/mods/Aquaculture-1.7.10-1.2.7.jar",
@@ -5761,16 +5839,34 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/BaublesExpanded-2.2.11-GTNH.jar"
         },
         {
+            "path": "minecraft/mods/BetterAchievements-0.3.2.jar",
+            "hash": "ac92d07e805057ca01720454e4ed542d1ab18f635b85574253b9712a1d26e5e0",
+            "size": 47136,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/BetterAchievements-0.3.2.jar"
+        },
+        {
             "path": "minecraft/mods/BetterLoadingScreen-1.3.10.jar",
             "hash": "2f2dce79eb8c46f9344a791eca179ae7b9ee597c6eca911b966feac883bf6371",
             "size": 84054,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/BetterLoadingScreen-1.3.10.jar"
         },
         {
+            "path": "minecraft/mods/BetterQuesting-3.8.32-GTNH.jar",
+            "hash": "380d587459f3c9bff526eff8efcfd1607c9c13ec6ab05b1ab2c2ed6a922d57d7",
+            "size": 1894746,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/BetterQuesting-3.8.32-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/BigReactors-0.4.3A.jar",
             "hash": "771df443516a2356c15c8131a15530298d56fe758a549b0d5ba043230b97c27b",
             "size": 771107,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/BigReactors-0.4.3A.jar"
+        },
+        {
+            "path": "minecraft/mods/BloodArsenal-1.5.7.jar",
+            "hash": "8ad6ebe91ba7055d43e87acda97426c0c4f8edd2654e5355ad3d637eeae9383c",
+            "size": 748141,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/BloodArsenal-1.5.7.jar"
         },
         {
             "path": "minecraft/mods/BloodMagic-1.8.14.jar",
@@ -5839,6 +5935,18 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/CompactKineticGenerators-1.7.10-1.0.jar"
         },
         {
+            "path": "minecraft/mods/Computronics-1.9.5-GTNH.jar",
+            "hash": "df1df12478ebc72ad205ed841270f937248b88b984b56bb875987dbbb765aed4",
+            "size": 1198543,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Computronics-1.9.5-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/CookingForBlockheads-1.4.10-GTNH.jar",
+            "hash": "5cf071022bd0ba2c34e0e7880a7f7c9d33bbb1359b9c56d4cd68821213153440",
+            "size": 354935,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/CookingForBlockheads-1.4.10-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
             "hash": "4eacf3356cee806bfc8085665a02d17191ab9a5199d517305c1e35205ba499b6",
             "size": 1047406,
@@ -5893,6 +6001,18 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/EnchantmentIDExtender-1.0a.jar"
         },
         {
+            "path": "minecraft/mods/EnderIO-2.10.22.jar",
+            "hash": "ff3ca27f3f8a7a72050e4f5e99a301e28fd3c43753fc958fd1174424e9f019db",
+            "size": 4898387,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/EnderIO-2.10.22.jar"
+        },
+        {
+            "path": "minecraft/mods/EnderStorage-1.8.3.jar",
+            "hash": "620a9dacb0f47648b4c508de8300b6dfdd1b46defcbd1f0a6accf9420ac7dce9",
+            "size": 153950,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/EnderStorage-1.8.3.jar"
+        },
+        {
             "path": "minecraft/mods/EnderTech-1.7.10-0.3.2.405.jar",
             "hash": "cb264e0777cb934354b06c4c478685645ebb543a8cb13bdf5e0bf52cf7de9b81",
             "size": 724840,
@@ -5903,6 +6023,12 @@
             "hash": "29181a54c1584b064656a9c12f857756a1bd4be71416c2e6778ee8bf58c7be53",
             "size": 356074,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/EnderZoo-1.3.3.jar"
+        },
+        {
+            "path": "minecraft/mods/EntityRenderDistanceExtender-1.0c.jar",
+            "hash": "e5ebcf082bb8f9c61e9d92c65b42d1a10dd6697cd979686eb452051b655eeba9",
+            "size": 126457,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/EntityRenderDistanceExtender-1.0c.jar"
         },
         {
             "path": "minecraft/mods/EvilCraft-1.7.10-0.9.13.jar",
@@ -5959,6 +6085,18 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/FoamFix-1.7.10-universal-1.0.4.jar"
         },
         {
+            "path": "minecraft/mods/Forbidden.Magic-0.9.15-GTNH.jar",
+            "hash": "8041062a61776476c7d814e709a5c24db47571cb1b4f063f4ec5ff9a73405788",
+            "size": 630127,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Forbidden.Magic-0.9.15-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/Forestry-4.11.11.jar",
+            "hash": "ba1d2717ec4c9a3ae0dc6876c8a290945fdfdfdacf606ffc5d651dadf7f897a3",
+            "size": 3386489,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Forestry-4.11.11.jar"
+        },
+        {
             "path": "minecraft/mods/ForgeRelocation-0.3.4.jar",
             "hash": "4998806ceee798da7823557b02e20c0c8b3fae1c3f521fccdf682ef8d325f617",
             "size": 561437,
@@ -5995,6 +6133,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/HEXCraft-1.7.10-0.13.2.jar"
         },
         {
+            "path": "minecraft/mods/HardcoreEnderExpansion-1.12.21-GTNH.jar",
+            "hash": "5f954ca1f63ce187401504f99f780d12dcc83bced93d8da9f521d81cc766af28",
+            "size": 19622848,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/HardcoreEnderExpansion-1.12.21-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/Healer-1.2.1.jar",
             "hash": "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc",
             "size": 17714,
@@ -6005,6 +6149,12 @@
             "hash": "d1fe28970c01e5940d16e9fe4d8edb404d8f6fd56c01f81a31ef4be1360e05e9",
             "size": 6367,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/HelpFixer-1.3.0.jar"
+        },
+        {
+            "path": "minecraft/mods/IC2NuclearControl-2.7.7.jar",
+            "hash": "40ba02c031cc6149c39c6fa7441996f491af368ae48aa2a73ea3239e8575f3d8",
+            "size": 1187436,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/IC2NuclearControl-2.7.7.jar"
         },
         {
             "path": "minecraft/mods/IguanaTweaksTConstruct-2.7.0.jar",
@@ -6023,6 +6173,18 @@
             "hash": "fca5cf76f64862cb1b74650fc937b2c03ac57f8150b80cb7f75f4be6533f146f",
             "size": 145457,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/InfernalMobs-1.10.3-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/IronChest-6.1.11.jar",
+            "hash": "cc9951de338f511ffe0c975e29f9cb16673a9ee8b80e2f4a24fa99b0de618727",
+            "size": 193808,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/IronChest-6.1.11.jar"
+        },
+        {
+            "path": "minecraft/mods/JABBA-1.5.18.jar",
+            "hash": "e84c20752bc2898fad44e16f0ace1095e86356c694cf1ea8e41f234a01439230",
+            "size": 477022,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/JABBA-1.5.18.jar"
         },
         {
             "path": "minecraft/mods/JAOPCA-1.7.10-W.0.8.31.jar",
@@ -6109,16 +6271,40 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Morpheus-1.7.10-1.6.21.jar"
         },
         {
+            "path": "minecraft/mods/MouseTweaks-2.5.0-GTNH.jar",
+            "hash": "873764f2c28b858dd915f5fa6cb2cd575fb85a7bf18905a8849ce470d97a01e5",
+            "size": 51856,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/MouseTweaks-2.5.0-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar",
             "hash": "6cc11b93914c7ec84036cd5922cf1cbad9a6da663fdfe82a809b2ec737707729",
             "size": 1728686,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar"
         },
         {
+            "path": "minecraft/mods/MrTJPCore-1.3.5.jar",
+            "hash": "da939140b001bfa1569f57d49edcfa4c6fd9360c94674842ca126bfd6ef3bfb1",
+            "size": 740599,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/MrTJPCore-1.3.5.jar"
+        },
+        {
             "path": "minecraft/mods/NEIAddons-1.18.0.jar",
             "hash": "dd5925a9e097aae4b6faeab0e31c8e500d5e5d0ab249a900ffbc774e8412270f",
             "size": 145427,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NEIAddons-1.18.0.jar"
+        },
+        {
+            "path": "minecraft/mods/NEICustomDiagram-1.8.18.jar",
+            "hash": "aa39119d3004bbfde1b6fb24f8af904643c7f31285e0855edcd9c0c8b8c9de75",
+            "size": 517409,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NEICustomDiagram-1.8.18.jar"
+        },
+        {
+            "path": "minecraft/mods/NEIIntegration-1.5.2.jar",
+            "hash": "e76daa51fee6d10de264b8484844d34253e84379dd1ed9b405de75d8c06b941b",
+            "size": 160862,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NEIIntegration-1.5.2.jar"
         },
         {
             "path": "minecraft/mods/NOVA-2015-10-09-universal.jar",
@@ -6133,6 +6319,24 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NoMoreRecipeConflict-1.7.10-0.3.2.jar"
         },
         {
+            "path": "minecraft/mods/NodalMechanics-1.3.4-GTNH.jar",
+            "hash": "462f3cedbcd17a40e41e902f786889894c0f36ba9506c198ad229faf157eb2b6",
+            "size": 22203,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NodalMechanics-1.3.4-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/NotEnoughEnergistics-1.7.28.jar",
+            "hash": "fbf3dad9595b3df4c5984dad9f24bb1353576a4c51c1a57d0a0295673a95c86e",
+            "size": 309109,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NotEnoughEnergistics-1.7.28.jar"
+        },
+        {
+            "path": "minecraft/mods/NotEnoughItems-2.8.91-GTNH.jar",
+            "hash": "d6854fc653f071d8156feca8091164dacd6d37a8898832f0cf1988ba5bd81dda",
+            "size": 1567621,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/NotEnoughItems-2.8.91-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/NotEnoughResources-1.7.10-0.1.0-128.jar",
             "hash": "f740aa8bbc9ee42a897121881d0bb6282dd85cb9413e0594ad3749a468c16e32",
             "size": 226574,
@@ -6145,6 +6349,18 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Numina-0.4.1.106.jar"
         },
         {
+            "path": "minecraft/mods/OpenBlocks-1.12.10-GTNH.jar",
+            "hash": "6e31c96fe5bc83f344ec75513eeb0469c6a714a45177b5abe35d3c4fad54ef23",
+            "size": 2740845,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/OpenBlocks-1.12.10-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/OpenComputers-1.12.34-GTNH.jar",
+            "hash": "61acfc2fc7ee65ffa34aa45869876d6932a314d780f97f9d5e0abf501cb0bbb5",
+            "size": 16766849,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/OpenComputers-1.12.34-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/OpenGlasses-1.6.1-GTNH.jar",
             "hash": "1c2f0ebc345e15d2ae1d23118e6bcf2767047615ff31de95f618df0040812738",
             "size": 144047,
@@ -6155,6 +6371,12 @@
             "hash": "6715aefb5ff29470b37390feb7d2d2247f93d5fecbb84fd4f26746a9edd2b096",
             "size": 2128987,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/OpenModsLibs-0.10.13.jar"
+        },
+        {
+            "path": "minecraft/mods/OpenModularTurrets-2.4.4.jar",
+            "hash": "3040d998b81e9294cb95a14bc0bdfb1fa41708884be91d9f1d603d8420aeecb6",
+            "size": 964199,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/OpenModularTurrets-2.4.4.jar"
         },
         {
             "path": "minecraft/mods/OpenSecurity/sounds/alarms/klaxon1.ogg",
@@ -6223,10 +6445,34 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/PortalGunSounds.pak.md5"
         },
         {
+            "path": "minecraft/mods/ProjRed-4.12.28-GTNH.jar",
+            "hash": "6690fcdd8204c6909452cce35258a58bcb399f330fd0646bb5e19a8a44dbc5ec",
+            "size": 10233263,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ProjRed-4.12.28-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/ProjectBlue-1.2.1-GTNH.jar",
             "hash": "9c438068f97bb42e1d86f5671b206931216b1296b5ce4cf0066f5a09fcdd7160",
             "size": 261851,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ProjectBlue-1.2.1-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/RTG-1.2.0-GTNH.jar",
+            "hash": "07ef18957b88c3aa414ee4558351f2c13d80d426eb1ed2c582e51d239fad6fb1",
+            "size": 2408740,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RTG-1.2.0-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/Railcraft-9.17.26.jar",
+            "hash": "6d3ead8fa04439bcfd147f4a12b23504dd6e5e0a2edd24deccc90ab090967a91",
+            "size": 3389075,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Railcraft-9.17.26.jar"
+        },
+        {
+            "path": "minecraft/mods/RandomThings-2.7.4.jar",
+            "hash": "c84378239955648d8ab4b3718eecb20b3f7f6e0e0927a9384d0f7fcfae8a4ccf",
+            "size": 2789739,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RandomThings-2.7.4.jar"
         },
         {
             "path": "minecraft/mods/ReactorCraft 1.7.10 V33a.jar",
@@ -6245,6 +6491,12 @@
             "hash": "0c518e212ac7bdfd8f93f96f7898b16a3686719998ed78420a7179a7723a2155",
             "size": 692778,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Reliquary-1.7.10-1.2.1.483.jar"
+        },
+        {
+            "path": "minecraft/mods/RemoteIO-2.7.7.jar",
+            "hash": "ab31e910e535a31e11918ebdb04b702f2c7a81be274a7496d200f7c75373e359",
+            "size": 280422,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RemoteIO-2.7.7.jar"
         },
         {
             "path": "minecraft/mods/RotaryCraft 1.7.10 V33a.jar",
@@ -6277,6 +6529,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ServerTabInfo-1.7.10-Final-b3.jar"
         },
         {
+            "path": "minecraft/mods/ServerUtilities-2.2.19.jar",
+            "hash": "5daf4fcd6a0c8f4057b3f718b51bfc25e7232dc34cfedb9c1ee4eaadb789d1a2",
+            "size": 1943628,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ServerUtilities-2.2.19.jar"
+        },
+        {
             "path": "minecraft/mods/SimplyJetpacks-MC1.7.10-1.5.3.jar",
             "hash": "1f46280d33c1c41b4a73054dd70286b740a1f18c7a4d5e857e4a63b8193d2cd5",
             "size": 608053,
@@ -6307,10 +6565,28 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/SpiceOfLife-2.2.3-carrot.jar"
         },
         {
+            "path": "minecraft/mods/StevesAddons-0.15.2.jar",
+            "hash": "b52ab0ab4dba868a7949cb061622666ad7ec0487286435bf24530779151af4cd",
+            "size": 233220,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/StevesAddons-0.15.2.jar"
+        },
+        {
+            "path": "minecraft/mods/StevesCarts-2.3.13.jar",
+            "hash": "c82a71d7947d3fb32b0334435ab7fd97137a12a96c70720b997b3c3a32eb26f7",
+            "size": 2585537,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/StevesCarts-2.3.13.jar"
+        },
+        {
             "path": "minecraft/mods/StevesFactoryManager-1.3.4-GTNH.jar",
             "hash": "216a76e5e96d0845f247481b224871367803dde122f557c724632feda572c71c",
             "size": 645557,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/StevesFactoryManager-1.3.4-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/StorageDrawers-2.2.17-GTNH.jar",
+            "hash": "92dc0b5334447f5c990256a243128cb90274cdd4ec7db6ab59e6f1da5a078d79",
+            "size": 1301230,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/StorageDrawers-2.2.17-GTNH.jar"
         },
         {
             "path": "minecraft/mods/SuperTic-1.5.4.jar",
@@ -6325,10 +6601,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/TCBotaniaExoflame-1.7.10-1.4.jar"
         },
         {
+            "path": "minecraft/mods/TConstruct-1.14.46-GTNH.jar",
+            "hash": "6b964cb22f2d6b1917d37dfa3e223541a20e3c797e5c2864e85e319418b87cd7",
+            "size": 5543574,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/TConstruct-1.14.46-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/TMechworks-0.4.1.jar",
             "hash": "1537134937b425001a96f498b94a4bfb7474f2b1d9d387ce208eeb502b47e841",
             "size": 220138,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/TMechworks-0.4.1.jar"
+        },
+        {
+            "path": "minecraft/mods/Tainted-Magic-7.7.7-GTNH.jar",
+            "hash": "c6df86bece775f012b8234895448b7647b7cdc3aea88c8f830d9e315228f5fb2",
+            "size": 2394832,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Tainted-Magic-7.7.7-GTNH.jar"
         },
         {
             "path": "minecraft/mods/Thaumaturgical Knowledge-0.1.5.2 - 1.7.10.jar",
@@ -6373,10 +6661,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThaumcraftResearchTweaks-1.3.0.jar"
         },
         {
+            "path": "minecraft/mods/Thaumic-Based-1.9.12.jar",
+            "hash": "d8f4160cecfd5d8e1cb3ffec63d439ff9f011ce4b99817b115d58467873a711b",
+            "size": 1636598,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumic-Based-1.9.12.jar"
+        },
+        {
             "path": "minecraft/mods/Thaumic-Errata-.1.7.10.1.0.2-0.jar",
             "hash": "3b1bf5c7236271f057b0f35f91d1be5345f50176064e61b477e97fb47ec5e4f0",
             "size": 32643,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumic-Errata-.1.7.10.1.0.2-0.jar"
+        },
+        {
+            "path": "minecraft/mods/Thaumic-Exploration-1.5.23-GTNH.jar",
+            "hash": "1f246fabd93b5560e8be4a2865e1717a5d5f5b0c3298ed8cac4a47ef621af517",
+            "size": 1821328,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumic-Exploration-1.5.23-GTNH.jar"
         },
         {
             "path": "minecraft/mods/Thaumic-Nexus-%5B1.7.10%5D%20a0.2.9-0.jar",
@@ -6385,10 +6685,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumic-Nexus-%255B1.7.10%255D%2520a0.2.9-0.jar"
         },
         {
+            "path": "minecraft/mods/ThaumicConcilium-1.1.1.jar",
+            "hash": "afa1ab5eaa8f82ddafd4fe024cfad14d5fdee130cdda2e220d65fb52f98be7a7",
+            "size": 6914627,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThaumicConcilium-1.1.1.jar"
+        },
+        {
             "path": "minecraft/mods/ThaumicExpansion-1.7.10-4.1.3.jar",
             "hash": "6b39964bd3e87c5c99c70960889650b10e007e980b01f9fe569ab77c85ae7246",
             "size": 1863602,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThaumicExpansion-1.7.10-4.1.3.jar"
+        },
+        {
+            "path": "minecraft/mods/ThaumicHorizons-1.8.13.jar",
+            "hash": "5d95a2c703945c2000dad709a44174d2bf9f012425d73d9ff770cfe85cbeb4e8",
+            "size": 2736139,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThaumicHorizons-1.8.13.jar"
         },
         {
             "path": "minecraft/mods/ThaumicHybrid-1.1.jar",
@@ -6401,6 +6713,12 @@
             "hash": "ff539c7dfc241720f5f97936ef6b062bc80c9078ee1d7ad96e023eed92c6a2f6",
             "size": 406609,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThaumicMachina-0.2.1.5.jar"
+        },
+        {
+            "path": "minecraft/mods/ThaumicTinkerer-2.12.20.jar",
+            "hash": "e5985b252c3626b3609c445fd258bff342a6ac796cec9b80cecbb26dd8184df2",
+            "size": 1970997,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThaumicTinkerer-2.12.20.jar"
         },
         {
             "path": "minecraft/mods/ThermalDynamics-[1.7.10]1.2.1-172.jar",
@@ -6421,6 +6739,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar"
         },
         {
+            "path": "minecraft/mods/TiCTooltips-1.4.1.jar",
+            "hash": "6299b77248812c7d56edc3229f5590b8de39c66ef57e45f8cb0336805e3bc4f4",
+            "size": 54955,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/TiCTooltips-1.4.1.jar"
+        },
+        {
             "path": "minecraft/mods/Translocator-1.4.3.jar",
             "hash": "7e4048fd51034bfdb0c98900f3ae5b17bea7e0c13ef59a2521cafd1de53112e8",
             "size": 167458,
@@ -6433,10 +6757,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/TravellersGear-1.7.10-1.16.6.jar"
         },
         {
+            "path": "minecraft/mods/TwilightForest-2.7.27.jar",
+            "hash": "a4e499deae147ac581c890e5dd2210d63fbea064b2060bb1ba372c0311089b58",
+            "size": 5356227,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/TwilightForest-2.7.27.jar"
+        },
+        {
             "path": "minecraft/mods/UniDict-1.7.10-2.9.2.jar",
             "hash": "c0bd43272f975df886653da10bccf973d5870b5168f1a0a0929a4f3584dab028",
             "size": 152787,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/UniDict-1.7.10-2.9.2.jar"
+        },
+        {
+            "path": "minecraft/mods/VillageNames-4.5.8-GTNH.jar",
+            "hash": "1455fb30e136048ddde4785eec951132aa2cf8393ae086b1bf09b7c5f1847ea9",
+            "size": 3480021,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/VillageNames-4.5.8-GTNH.jar"
         },
         {
             "path": "minecraft/mods/VillagerMetaFix-0.4.jar",
@@ -6463,10 +6799,28 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/WR-CBE-1.7.1.jar"
         },
         {
+            "path": "minecraft/mods/Waila-1.19.22.jar",
+            "hash": "a56f5f8653f70125766656117b5f41400b5aeed6c10d38b77cdbf49699934271",
+            "size": 548080,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Waila-1.19.22.jar"
+        },
+        {
             "path": "minecraft/mods/WailaHarvestability-1.3.4-GTNH.jar",
             "hash": "08a823bd221a203be070ce31c08db10a573540843f5f8dbe9f0bf30fff3bb7d3",
             "size": 30628,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/WailaHarvestability-1.3.4-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/WarpTheory-1.5.3-GTNH.jar",
+            "hash": "d6a1f59f6f539d61be6024ec7e3d556eb3c461c1ca81a5851a9a9c7aa6ff7a6b",
+            "size": 397470,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/WarpTheory-1.5.3-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/Wawla-1.3.3-GTNH.jar",
+            "hash": "788076ebf369549640063229b66f4ec3980c0fecc1f7ca0294e8672f28889bd6",
+            "size": 78897,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Wawla-1.3.3-GTNH.jar"
         },
         {
             "path": "minecraft/mods/Waystones_Jawsawn_Fork-mc1.7.10-1.0.0.jar",
@@ -6487,10 +6841,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Witchery-0.24.1.4.jar"
         },
         {
+            "path": "minecraft/mods/WitcheryExtras-1.4.11.jar",
+            "hash": "58b6ce92d6ec7852972845ffac99538fbe050eb5e925776c0abbd2e16fdafa18",
+            "size": 100044,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/WitcheryExtras-1.4.11.jar"
+        },
+        {
             "path": "minecraft/mods/WitcheryPatch-1.7.10-1.0.0-mr.jar",
             "hash": "d1bef072dca9c812e2045162fd65692a5e361f326a0c1ffff69d734c28bd4cf5",
             "size": 6236,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/WitcheryPatch-1.7.10-1.0.0-mr.jar"
+        },
+        {
+            "path": "minecraft/mods/WitchingGadgets-1.8.41-GTNH.jar",
+            "hash": "240601beaf66cb9525cc00597fb385a8be74265d2dee00da403366d7d3f82804",
+            "size": 4251621,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/WitchingGadgets-1.8.41-GTNH.jar"
         },
         {
             "path": "minecraft/mods/Zaifix-1.2.jar",
@@ -6505,16 +6871,52 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/advanced-machines-59.0.2.jar"
         },
         {
+            "path": "minecraft/mods/adventurebackpack-1.4.18-GTNH.jar",
+            "hash": "d3fd6a4f2c50593b7e7467430d6498f300763bc5f27d2cc6f6191b6fe99989d5",
+            "size": 3250791,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/adventurebackpack-1.4.18-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/ae2fc-1.5.73-gtnh.jar",
+            "hash": "612c2dd919d0ba668f13d35e82c35b9135438dcad02a25166307f3697269362a",
+            "size": 839604,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ae2fc-1.5.73-gtnh.jar"
+        },
+        {
+            "path": "minecraft/mods/ae2stuff-0.10.19-GTNH.jar",
+            "hash": "7faf7557553680b26d1691827973b5e6336927eed5ad58948e804eaaaafc2909",
+            "size": 671603,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ae2stuff-0.10.19-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/alchgrate-1.3.1-GTNH.jar",
             "hash": "aa63fa667d7099465b6dca18a482d14dc196ed53e2aeb9b54972a53acac08682",
             "size": 16364,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/alchgrate-1.3.1-GTNH.jar"
         },
         {
+            "path": "minecraft/mods/angelica-2.1.17.jar",
+            "hash": "974c4fc8800c3142230d83813521622137e7d8da2f855b2371b7c9838e2d7685",
+            "size": 7177200,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/angelica-2.1.17.jar"
+        },
+        {
+            "path": "minecraft/mods/antiquities-0.2.53.jar",
+            "hash": "6f77883674e2833169924f9952ab4ab2f42d42818536accbdfa6b4d28ebea624",
+            "size": 412714,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/antiquities-0.2.53.jar"
+        },
+        {
             "path": "minecraft/mods/appliedenergistics2-rv3-beta-861-GTNH.jar",
             "hash": "8113d6077c7b691374c6e07c73cd357660d91bb968ead95453ed3ceeef784ae7",
             "size": 4056970,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/appliedenergistics2-rv3-beta-861-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/aquaacrobatics-0.1.0.jar",
+            "hash": "72dcb3c12772e74cfc17eee28e22e81e413e74f49c245205d8184d742c10314d",
+            "size": 151019,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/aquaacrobatics-0.1.0.jar"
         },
         {
             "path": "minecraft/mods/arcane_engineering-0.2.7.jar",
@@ -6527,6 +6929,18 @@
             "hash": "ed8396b7cc90a459097ce1176e5d7d017ad3f71cf75d11bb20f888713a8d254d",
             "size": 292419,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/archaicfix-0.7.9.jar"
+        },
+        {
+            "path": "minecraft/mods/backhand-1.8.8.jar",
+            "hash": "cf094f413b1ed3658fe479a1f87a4edb2f6d4c4404e1fb2fa0759d57000e718f",
+            "size": 147639,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/backhand-1.8.8.jar"
+        },
+        {
+            "path": "minecraft/mods/backpack-2.6.10-GTNH.jar",
+            "hash": "c5f76ee240b834f1d5e3388287cf8ed8196e492a2a48b80e21d8622f1975fda5",
+            "size": 289327,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/backpack-2.6.10-GTNH.jar"
         },
         {
             "path": "minecraft/mods/bdlib-1.11.0-GTNH.jar",
@@ -6547,10 +6961,34 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/betterp2p-1.4.3.jar"
         },
         {
+            "path": "minecraft/mods/binnie-mods-2.6.24.jar",
+            "hash": "3d2eb6c24e4a55ddbef229570feb2145ca53b2882e9b79df18d291f7147ed1a8",
+            "size": 4510479,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/binnie-mods-2.6.24.jar"
+        },
+        {
+            "path": "minecraft/mods/buildcraft-7.1.57.jar",
+            "hash": "f7f87da4bc6aa3de8604e1ff692a7d3f4fe7185eb3e8283ed55c80819a7f934e",
+            "size": 2681488,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/buildcraft-7.1.57.jar"
+        },
+        {
+            "path": "minecraft/mods/buildcraft-compat-7.1.20.jar",
+            "hash": "b88ef6ed81188bd47c24f3f140aa42cdea73c1be35c297caa183c222877cf039",
+            "size": 251289,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/buildcraft-compat-7.1.20.jar"
+        },
+        {
             "path": "minecraft/mods/chisel-2.17.20-GTNH.jar",
             "hash": "3597b46377bc3b31a421eec505a39e3be2932b06102ac2ad324bbd6a9cb7f8d5",
             "size": 7359354,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/chisel-2.17.20-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/chromatifixes-1.14.4.jar",
+            "hash": "3cd56f68fc5dbd00037ea382458fa7723150d4a20b64fbcf76a0944ae5d87711",
+            "size": 155317,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/chromatifixes-1.14.4.jar"
         },
         {
             "path": "minecraft/mods/chromatinei-2.4.3.jar",
@@ -6563,6 +7001,12 @@
             "hash": "e3ad769472278a7433da4218c10695e2b50f4531cccbed957bed42ca96e553f7",
             "size": 1502264,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/clockworkphase-1.7.10_1.0f.jar"
+        },
+        {
+            "path": "minecraft/mods/controlling-2.1.7.jar",
+            "hash": "5db18a1babdc2b8c84cd9e4e69264cf0bd01365932f3a21e7acbdd544418fd55",
+            "size": 45741,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/controlling-2.1.7.jar"
         },
         {
             "path": "minecraft/mods/coretweaks-0.3.4.0-GTNH.jar",
@@ -6613,10 +7057,22 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/e4mc-retro_forge-1.0.2+1.7.x.jar"
         },
         {
+            "path": "minecraft/mods/endercore-0.5.12.jar",
+            "hash": "9ba57b9efe3dd264d98d234daa411733420b8bac9556b16e18d78946c54fefb5",
+            "size": 445479,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/endercore-0.5.12.jar"
+        },
+        {
             "path": "minecraft/mods/essentiapipes-1.7.10-v1.2.0.jar",
             "hash": "76fdc1c447cb3d25716e2b7091f230db07c8fd9c487cfa4e76d5c20860e61cad",
             "size": 84868,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/essentiapipes-1.7.10-v1.2.0.jar"
+        },
+        {
+            "path": "minecraft/mods/etfuturum-2.6.18-GTNH.jar",
+            "hash": "f93bc2a3bf87af49b585dfc52a58b8b1296d01fa34ad6614a37239c246235d5c",
+            "size": 5029432,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/etfuturum-2.6.18-GTNH.jar"
         },
         {
             "path": "minecraft/mods/externaltweaker-1.7.10-0.3.jar",
@@ -6631,6 +7087,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/extrautilities-1.2.12.jar"
         },
         {
+            "path": "minecraft/mods/fether-2.0.5.jar",
+            "hash": "e9bbc64360cebce40a4cf5bc959e4c21fc9fcbbca3cce60d331fc36b7ea40264",
+            "size": 125780,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/fether-2.0.5.jar"
+        },
+        {
             "path": "minecraft/mods/fognerf-1.7.10-0.4.jar",
             "hash": "cc485ddcaf9faa91974744fd9d3147412dd85586864be23eabe16d8cc42b21df",
             "size": 54238,
@@ -6643,10 +7105,40 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/forgelin-2.0.3-GTNH.jar"
         },
         {
+            "path": "minecraft/mods/gadomancy-1.5.9.jar",
+            "hash": "9df60b7ad83455189088233cdeaf8cf31ebfb13421456c343c9373a900a6a844",
+            "size": 7102813,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/gadomancy-1.5.9.jar"
+        },
+        {
+            "path": "minecraft/mods/gendustry-1.9.8-GTNH.jar",
+            "hash": "6d0eeed2e0e45edc6b3ed6dd5e64fe31c3dc71afe5633559b502a2cafa022f18",
+            "size": 2607773,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/gendustry-1.9.8-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/gravisuiteneo-1.3.8.jar",
+            "hash": "70b3a2bfb01f6a18834a443ab54eb8a99476cc0eac18e0d893840f982f4ca766",
+            "size": 1078491,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/gravisuiteneo-1.3.8.jar"
+        },
+        {
+            "path": "minecraft/mods/gtnhlib-0.9.47.jar",
+            "hash": "1f40ceae20b9b6d6ce0d3a8d66ef98bb1371c0790ade60afcc7f6aceed413f2c",
+            "size": 28669502,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/gtnhlib-0.9.47.jar"
+        },
+        {
             "path": "minecraft/mods/guideapi-1.1.0.jar",
             "hash": "74ee0a7704c0415b2bcfdca1957ae990d930a4e2c6b97161cd80a3b266afc3e1",
             "size": 197639,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/guideapi-1.1.0.jar"
+        },
+        {
+            "path": "minecraft/mods/hodgepodge-2.7.120.jar",
+            "hash": "59c6ab7e3e4d70131b763ed801f7da8e7ae9bad5a8d72a46b500f1f962ccc331",
+            "size": 924592,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/hodgepodge-2.7.120.jar"
         },
         {
             "path": "minecraft/mods/iChunUtil-4.2.3.jar",
@@ -6691,6 +7183,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ironfurnaces-1.2.4R.jar"
         },
         {
+            "path": "minecraft/mods/irontanks-1.4.4.jar",
+            "hash": "4a403208a0be387a4f7653602d3434671d3fcc91a346a12a81469ca4c2c34883",
+            "size": 106630,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/irontanks-1.4.4.jar"
+        },
+        {
             "path": "minecraft/mods/journeymap-1.7.10-5.2.10-unlimited.jar",
             "hash": "909ce7d0362abdcd0f93b787dfc75460ca7103246b8fbb28b65cf69638d25d75",
             "size": 8937816,
@@ -6733,6 +7231,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/magicalcropsdeco-4.0.0_PUBLIC_BETA_4a.jar"
         },
         {
+            "path": "minecraft/mods/magicbees-2.10.7-GTNH.jar",
+            "hash": "71f70d0a17eed292c8a2b904d766159b9e1b32812fbdc1464e3a2818ee58681b",
+            "size": 1012431,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/magicbees-2.10.7-GTNH.jar"
+        },
+        {
             "path": "minecraft/mods/mmnhutils-1.4.1.jar",
             "hash": "b42cb5404385b8149719046949214b3c0d03128c17592cbd66fea0a82a376ef2",
             "size": 81006,
@@ -6749,6 +7253,12 @@
             "hash": "e6a635c1c00081733e617e1f778dbfef3f58c390cb4ab8049a2b29505c67ded2",
             "size": 481315,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/modularui-1.3.1.jar"
+        },
+        {
+            "path": "minecraft/mods/modularui2-2.3.48-1.7.10.jar",
+            "hash": "b2a1c8b08e2fccdf351dabcc18e2ae586c640cc72ba44c1c7edea3be44164a0e",
+            "size": 1586839,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/modularui2-2.3.48-1.7.10.jar"
         },
         {
             "path": "minecraft/mods/naturescompass-1.5.0-GTNH.jar",
@@ -6787,10 +7297,28 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/opensecurity-1.2.0-GTNH.jar"
         },
         {
+            "path": "minecraft/mods/overloadedarmorbar-1.1.1.jar",
+            "hash": "5a36c261c4149d3079de7e738c7930f1d0081ae87057cab90ae5c19ba49be297",
+            "size": 11416,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/overloadedarmorbar-1.1.1.jar"
+        },
+        {
+            "path": "minecraft/mods/randomboubles-1.1.6.jar",
+            "hash": "678d5111fa8a506a2cfbeae4e32a2bc9601b0ec55e7050c17046e1e3c5695df0",
+            "size": 195342,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/randomboubles-1.1.6.jar"
+        },
+        {
             "path": "minecraft/mods/roguelike-1.6.6-GTNH.jar",
             "hash": "4fd9a362e517d3096432a7c9664d3bbcbb39b9e337c0175903a3a04ea8632f60",
             "size": 590331,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/roguelike-1.6.6-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/salisarcana-1.1.51-GTNH.jar",
+            "hash": "4aa81fa838a32d631bf6edeb7843a7231f1f2be98a6865ffbdcde4f9f7c11dd0",
+            "size": 636230,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/salisarcana-1.1.51-GTNH.jar"
         },
         {
             "path": "minecraft/mods/serializationisbad-1.5.2.jar",
@@ -6829,6 +7357,12 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/tcneiadditions-1.5.14-pre.jar"
         },
         {
+            "path": "minecraft/mods/tcnodetracker-1.4.2.jar",
+            "hash": "7779b64dfb30e8c06aadf8fee5f130ccf5d824f9f9531d9db9f2135f3c463f99",
+            "size": 151373,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/tcnodetracker-1.4.2.jar"
+        },
+        {
             "path": "minecraft/mods/terralizationcompat-1.7.10-1.0.5.jar",
             "hash": "7e5b29393fedda5f97a9c39db69293fc836a3108f5a3c77dd0d1f195a3a3d090",
             "size": 25165,
@@ -6847,16 +7381,40 @@
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/thaumicdyes-1.10.11-JB.jar"
         },
         {
+            "path": "minecraft/mods/thaumicenergistics-1.7.42-GTNH.jar",
+            "hash": "18e907c195813c275c49beedfd402bdb1e2f6857eba358615f5598d0d4cf41f8",
+            "size": 1490058,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/thaumicenergistics-1.7.42-GTNH.jar"
+        },
+        {
+            "path": "minecraft/mods/thaumicinsurgence-0.4.1.jar",
+            "hash": "0fe98f8e0b07a1749ad518954e00b7322d4f78b36dac6ff6da79962ac7b512e8",
+            "size": 787289,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/thaumicinsurgence-0.4.1.jar"
+        },
+        {
             "path": "minecraft/mods/threadsafetyfixes-2.2.1.jar",
             "hash": "032b5665166d916c261cac52604ae7d474b05e8391795481efa7285b22dc72a0",
             "size": 19568,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/threadsafetyfixes-2.2.1.jar"
         },
         {
+            "path": "minecraft/mods/torohealth-1.2.2.jar",
+            "hash": "f678845df18d0aae86a1d071efa6c63fb6fd78c14d00a3326a34c101a7128588",
+            "size": 15781,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/torohealth-1.2.2.jar"
+        },
+        {
             "path": "minecraft/mods/travellersgearneo-1.2.4.jar",
             "hash": "9fc9e61b505020a67c5059c670614f2b8b3d511816950af4f359678212da5a13",
             "size": 14027,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/travellersgearneo-1.2.4.jar"
+        },
+        {
+            "path": "minecraft/mods/txloader-1.8.9.jar",
+            "hash": "470bf74f13c57a8459b76793dc14a0171946aa6573af161a57f98e66a5077687",
+            "size": 45457,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/txloader-1.8.9.jar"
         },
         {
             "path": "minecraft/mods/u25core-1.3.1-pre.jar",
