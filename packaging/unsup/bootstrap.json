@@ -706,13 +706,13 @@
             "path": "minecraft/config/BetterLoadingScreen/preset one.json",
             "hash": "a8329d21e40004d3c7d57e6127c7c3c01e3116735d7c43baf5b0603633b4268e",
             "size": 1618,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/BetterLoadingScreen/preset one.json"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/BetterLoadingScreen/preset%20one.json"
         },
         {
             "path": "minecraft/config/BetterLoadingScreen/preset two.json",
             "hash": "86d59f4d08cdbac7856fcc8c0784a0a96d2088effc0e85eec511f3953c9bb756",
             "size": 1405,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/BetterLoadingScreen/preset two.json"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/BetterLoadingScreen/preset%20two.json"
         },
         {
             "path": "minecraft/config/BetterLoadingScreen/tips/en_US.txt",
@@ -2350,7 +2350,7 @@
             "path": "minecraft/config/Thaumic Bases.cfg",
             "hash": "a24f182f6df8194d1087e3e0396aad6556c12354fc1e5d44fee2b206059c6cd6",
             "size": 2899,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/Thaumic Bases.cfg"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/config/Thaumic%20Bases.cfg"
         },
         {
             "path": "minecraft/config/ThaumicConcilium.cfg",
@@ -5692,7 +5692,7 @@
             "path": "minecraft/mods/Advanced Botany 1.3.1.7.jar",
             "hash": "4a19941c365e8be1d9da08c0e8c6e316aafb3a707d93e53f7b548805f855defb",
             "size": 1437287,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Advanced Botany 1.3.1.7.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Advanced%20Botany%201.3.1.7.jar"
         },
         {
             "path": "minecraft/mods/AdvancedSolarPanel-1.7.10-3.5.1.jar",
@@ -5824,7 +5824,7 @@
             "path": "minecraft/mods/CoFHCore-[1.7.10]3.1.4-329.jar",
             "hash": "acefa71392eff745dcfd6d6d5e49b6586e2e4e103d1260f4674f622152ef6f60",
             "size": 1230511,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/CoFHCore-[1.7.10]3.1.4-329.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/CoFHCore-%5B1.7.10%5D3.1.4-329.jar"
         },
         {
             "path": "minecraft/mods/CodeChickenCore-1.4.12.jar",
@@ -5860,7 +5860,7 @@
             "path": "minecraft/mods/DragonAPI 1.7.10 V33b.jar",
             "hash": "b4f66b0ab76507c8e807c0d39e7a3f50fb46cfbbe4d44a44ca94c527f3ca439c",
             "size": 4115101,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/DragonAPI 1.7.10 V33b.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/DragonAPI%201.7.10%20V33b.jar"
         },
         {
             "path": "minecraft/mods/DummyCore-1.20.0.jar",
@@ -5878,7 +5878,7 @@
             "path": "minecraft/mods/ElectriCraft 1.7.10 V33a.jar",
             "hash": "606f82e960ed468e2d652402ef31b1d450cf51cd06bfb85740ad1666f707893e",
             "size": 449936,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ElectriCraft 1.7.10 V33a.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ElectriCraft%201.7.10%20V33a.jar"
         },
         {
             "path": "minecraft/mods/EnchantingPlus-1.7.10-3.0.2-d.jar",
@@ -5914,7 +5914,7 @@
             "path": "minecraft/mods/ExpandedRedstone 1.7.10 V33a.jar",
             "hash": "c8d650e7cbd62f6caf5731a16bf2c89424f9a592f15b0b565418079a151511ed",
             "size": 307969,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ExpandedRedstone 1.7.10 V33a.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ExpandedRedstone%201.7.10%20V33a.jar"
         },
         {
             "path": "minecraft/mods/ExtendedPotions-MC1.7.10-1.2.jar",
@@ -6190,7 +6190,7 @@
             "path": "minecraft/mods/Pam's HarvestCraft 1.7.10Lb.jar",
             "hash": "b0dc253702948d19d9c2d5191ae78ae022b65fac73210ca7313d7ef3b1cd7a57",
             "size": 2482753,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Pam's HarvestCraft 1.7.10Lb.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Pam's%20HarvestCraft%201.7.10Lb.jar"
         },
         {
             "path": "minecraft/mods/Patcher.jar",
@@ -6232,13 +6232,13 @@
             "path": "minecraft/mods/ReactorCraft 1.7.10 V33a.jar",
             "hash": "8d60bdf3e9aefe6672c2505856988805407918096ce368963c6783c7d98a921c",
             "size": 4364144,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ReactorCraft 1.7.10 V33a.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ReactorCraft%201.7.10%20V33a.jar"
         },
         {
             "path": "minecraft/mods/RedstoneArsenal-[1.7.10]1.1.2-92.jar",
             "hash": "120ea8df61e540b2549c745e6a6abbe11aa6d7eb8d8a67a31ea3aa0e042cdb98",
             "size": 318347,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RedstoneArsenal-[1.7.10]1.1.2-92.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RedstoneArsenal-%5B1.7.10%5D1.1.2-92.jar"
         },
         {
             "path": "minecraft/mods/Reliquary-1.7.10-1.2.1.483.jar",
@@ -6250,7 +6250,7 @@
             "path": "minecraft/mods/RotaryCraft 1.7.10 V33a.jar",
             "hash": "be58a76249d3dade1306670653a0c2454fd2f0f157fd5291fb7b86d9aed46efc",
             "size": 8433125,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RotaryCraft 1.7.10 V33a.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/RotaryCraft%201.7.10%20V33a.jar"
         },
         {
             "path": "minecraft/mods/Sanguimancy-1.7.10-1.1.10-LE.jar",
@@ -6334,7 +6334,7 @@
             "path": "minecraft/mods/Thaumaturgical Knowledge-0.1.5.2 - 1.7.10.jar",
             "hash": "378d4ef6765196d7d1e9efad015ed169d0c1d23438fd6e147aa84cae99185baa",
             "size": 218029,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumaturgical Knowledge-0.1.5.2 - 1.7.10.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumaturgical%20Knowledge-0.1.5.2%20-%201.7.10.jar"
         },
         {
             "path": "minecraft/mods/Thaumcraft-1.7.10-4.2.3.5.jar",
@@ -6382,7 +6382,7 @@
             "path": "minecraft/mods/Thaumic-Nexus-%5B1.7.10%5D%20a0.2.9-0.jar",
             "hash": "f587ed216474d7e60fd90e80cab48a7e761ae809b3e6c37c00b8cadebe3b1902",
             "size": 1439590,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumic-Nexus-%5B1.7.10%5D%20a0.2.9-0.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/Thaumic-Nexus-%255B1.7.10%255D%2520a0.2.9-0.jar"
         },
         {
             "path": "minecraft/mods/ThaumicExpansion-1.7.10-4.1.3.jar",
@@ -6406,19 +6406,19 @@
             "path": "minecraft/mods/ThermalDynamics-[1.7.10]1.2.1-172.jar",
             "hash": "f35ff1bb6d436fb37fcbcd9632107424989e1116a096f23f07c58d7ef8755a66",
             "size": 632485,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalDynamics-[1.7.10]1.2.1-172.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalDynamics-%5B1.7.10%5D1.2.1-172.jar"
         },
         {
             "path": "minecraft/mods/ThermalExpansion-[1.7.10]4.1.5-248.jar",
             "hash": "cbfeebd28c8e48ac41e88f08957dc2f99a1160a0c641bbd95eff232071e884d0",
             "size": 2614932,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalExpansion-[1.7.10]4.1.5-248.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar"
         },
         {
             "path": "minecraft/mods/ThermalFoundation-[1.7.10]1.2.6-118.jar",
             "hash": "2e78538d2db2e924b9455e6521c89b6633f2c3f171a3b5b8f1208ce4eaca4206",
             "size": 2316321,
-            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalFoundation-[1.7.10]1.2.6-118.jar"
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/minecraft/mods/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar"
         },
         {
             "path": "minecraft/mods/Translocator-1.4.3.jar",
@@ -6875,6 +6875,24 @@
             "hash": "e81942351670ba52957cb4f06927c588f79ec3721ce91c94d96dc687b66977d6",
             "size": 1042,
             "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/mmc-pack.json"
+        },
+        {
+            "path": "packaging/instance.cfg",
+            "hash": "7b6d8f099e1bef54c912ed3f7030f948e023dac3f1755ac503f7e6d6b71361b5",
+            "size": 195,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/packaging/instance.cfg"
+        },
+        {
+            "path": "packaging/unsup/unsup.ini",
+            "hash": "2b04bee78b00f0f79ba55313c57b6f71c6b1973e02cc26d7367ba012b88d937f",
+            "size": 164,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/packaging/unsup/unsup.ini"
+        },
+        {
+            "path": "packaging/unsup/unsup.jar",
+            "hash": "05dd52aabf0185a758b1e1fc0c030b72a8bcd40ef5898d6565535697bd9f2cba",
+            "size": 944084,
+            "url": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main/packaging/unsup/unsup.jar"
         }
     ]
 }
