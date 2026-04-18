@@ -133,7 +133,7 @@
     }
   },
   "AppleCore": {
-    "file_path": "../minecraft/mods/AppleCore-3.3.8.jar",
+    "file_path": "../minecraft/mods/AppleCore-3.3.9.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/AppleCore",
     "notes": "",
@@ -247,7 +247,7 @@
     }
   },
   "Backpack": {
-    "file_path": "../minecraft/mods/backpack-2.6.9-GTNH.jar",
+    "file_path": "../minecraft/mods/backpack-2.6.10-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod",
     "notes": "",
@@ -294,7 +294,7 @@
     }
   },
   "BetterAchievements": {
-    "file_path": "../minecraft/mods/BetterAchievements-0.3.0.jar",
+    "file_path": "../minecraft/mods/BetterAchievements-0.3.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BetterAchievements",
     "notes": "",
@@ -332,7 +332,7 @@
     }
   },
   "BinnieCore": {
-    "file_path": "../minecraft/mods/binnie-mods-2.6.1-pre.jar",
+    "file_path": "../minecraft/mods/binnie-mods-2.6.24.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Binnie",
     "notes": "",
@@ -351,7 +351,7 @@
     }
   },
   "BloodArsenal": {
-    "file_path": "../minecraft/mods/BloodArsenal-1.5.6.jar",
+    "file_path": "../minecraft/mods/BloodArsenal-1.5.7.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BloodArsenal",
     "notes": "",
@@ -408,7 +408,7 @@
     }
   },
   "BuildCraft|Compat": {
-    "file_path": "../minecraft/mods/buildcraft-compat-7.1.18.jar",
+    "file_path": "../minecraft/mods/buildcraft-compat-7.1.20.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BuildCraftCompat",
     "notes": "",
@@ -427,7 +427,7 @@
     }
   },
   "BuildCraft|Core": {
-    "file_path": "../minecraft/mods/buildcraft-7.1.47.jar",
+    "file_path": "../minecraft/mods/buildcraft-7.1.57.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BuildCraft",
     "notes": "",
@@ -651,7 +651,7 @@
     }
   },
   "EnderIO": {
-    "file_path": "../minecraft/mods/EnderIO-2.10.21.jar",
+    "file_path": "../minecraft/mods/EnderIO-2.10.22.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/EnderIO",
     "notes": "",
@@ -670,7 +670,7 @@
     }
   },
   "EnderStorage": {
-    "file_path": "../minecraft/mods/EnderStorage-1.8.2.jar",
+    "file_path": "../minecraft/mods/EnderStorage-1.8.3.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/EnderStorage",
     "notes": "",
@@ -879,12 +879,12 @@
     }
   },
   "ForbiddenMagic": {
-    "file_path": "../minecraft/mods/Forbidden.Magic-0.9.13-GTNH.jar",
+    "file_path": "../minecraft/mods/Forbidden.Magic-0.9.15-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ForbiddenMagic",
     "notes": "",
     "wanted_by": ["NodalMechanics", "ThaumicConcilium"],
-    "wants": ["Thaumcraft"],
+    "wants": ["Thaumcraft", "gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
@@ -898,12 +898,12 @@
     }
   },
   "Forestry": {
-    "file_path": "../minecraft/mods/Forestry-4.11.2.jar",
+    "file_path": "../minecraft/mods/Forestry-4.11.11.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ForestryMC",
     "notes": "",
     "wanted_by": ["BinnieCore", "MagicBees", "gendustry"],
-    "wants": [],
+    "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
@@ -993,7 +993,7 @@
     }
   },
   "HardcoreEnderExpansion": {
-    "file_path": "../minecraft/mods/HardcoreEnderExpansion-1.12.20-GTNH.jar",
+    "file_path": "../minecraft/mods/HardcoreEnderExpansion-1.12.21-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion",
     "notes": "",
@@ -1081,7 +1081,7 @@
     }
   },
   "IC2NuclearControl": {
-    "file_path": "../minecraft/mods/IC2NuclearControl-2.7.0.jar",
+    "file_path": "../minecraft/mods/IC2NuclearControl-2.7.7.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Nuclear-Control",
     "notes": "",
@@ -1176,7 +1176,7 @@
     }
   },
   "IronChest": {
-    "file_path": "../minecraft/mods/IronChest-6.1.6.jar",
+    "file_path": "../minecraft/mods/IronChest-6.1.11.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ironchest",
     "notes": "",
@@ -1195,7 +1195,7 @@
     }
   },
   "JABBA": {
-    "file_path": "../minecraft/mods/JABBA-1.5.16.jar",
+    "file_path": "../minecraft/mods/JABBA-1.5.18.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Jabba",
     "notes": "",
@@ -1280,7 +1280,7 @@
     }
   },
   "MagicBees": {
-    "file_path": "../minecraft/mods/magicbees-2.10.3-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/magicbees-2.10.7-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/MagicBees",
     "notes": "",
@@ -1439,7 +1439,7 @@
     }
   },
   "MouseTweaks": {
-    "file_path": "../minecraft/mods/MouseTweaks-2.4.20-GTNH.jar",
+    "file_path": "../minecraft/mods/MouseTweaks-2.5.0-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/MouseTweaks",
     "notes": "",
@@ -1458,7 +1458,7 @@
     }
   },
   "MrTJPCoreMod": {
-    "file_path": "../minecraft/mods/MrTJPCore-1.3.4.jar",
+    "file_path": "../minecraft/mods/MrTJPCore-1.3.5.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/MrTJPCore",
     "notes": "",
@@ -1477,7 +1477,7 @@
     }
   },
   "MyCTMLib": {
-    "file_path": "../minecraft/mods/MyCTMLib-v1.2.5_28x.jar",
+    "file_path": "../minecraft/mods/MyCTMLib-v.1.2.6-29x-pre.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -1543,7 +1543,7 @@
     }
   },
   "NodalMechanics": {
-    "file_path": "../minecraft/mods/NodalMechanics-1.3.1-GTNH.jar",
+    "file_path": "../minecraft/mods/NodalMechanics-1.3.4-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Nodal-Mechanics",
     "notes": "",
@@ -1562,7 +1562,7 @@
     }
   },
   "NotEnoughItems": {
-    "file_path": "../minecraft/mods/NotEnoughItems-2.8.75-GTNH.jar",
+    "file_path": "../minecraft/mods/NotEnoughItems-2.8.91-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/NotEnoughItems",
     "notes": "",
@@ -1573,7 +1573,8 @@
       "neenergistics",
       "neiintegration",
       "neresources",
-      "jecalculation"
+      "jecalculation",
+      "neicustomdiagram"
     ],
     "wants": ["CodeChickenCore"],
     "enabled": true,
@@ -1589,7 +1590,7 @@
     }
   },
   "OpenBlocks": {
-    "file_path": "../minecraft/mods/OpenBlocks-1.12.3-GTNH.jar",
+    "file_path": "../minecraft/mods/OpenBlocks-1.12.10-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/OpenBlocks",
     "notes": "",
@@ -1608,7 +1609,7 @@
     }
   },
   "OpenComputers": {
-    "file_path": "../minecraft/mods/OpenComputers-1.12.5-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/OpenComputers-1.12.34-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/OpenComputers",
     "notes": "",
@@ -1703,7 +1704,7 @@
     }
   },
   "ProjRed|Core": {
-    "file_path": "../minecraft/mods/ProjRed-4.12.4-GTNH.jar",
+    "file_path": "../minecraft/mods/ProjRed-4.12.28-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ProjectRed",
     "notes": "",
@@ -1750,7 +1751,7 @@
     }
   },
   "RIO": {
-    "file_path": "../minecraft/mods/RemoteIO-2.7.6.jar",
+    "file_path": "../minecraft/mods/RemoteIO-2.7.7.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/RemoteIO",
     "notes": "",
@@ -1769,7 +1770,7 @@
     }
   },
   "RTG": {
-    "file_path": "../minecraft/mods/RTG-1.1.6-GTNH.jar",
+    "file_path": "../minecraft/mods/RTG-1.2.0-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Realistic-Terrain-Generation",
     "notes": "",
@@ -1788,7 +1789,7 @@
     }
   },
   "Railcraft": {
-    "file_path": "../minecraft/mods/Railcraft-9.17.7-pre.jar",
+    "file_path": "../minecraft/mods/Railcraft-9.17.26.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Railcraft",
     "notes": "",
@@ -1807,7 +1808,7 @@
     }
   },
   "RandomThings": {
-    "file_path": "../minecraft/mods/RandomThings-2.7.1.jar",
+    "file_path": "../minecraft/mods/RandomThings-2.7.4.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Random-Things",
     "notes": "",
@@ -2035,7 +2036,7 @@
     }
   },
   "StevesAddons": {
-    "file_path": "../minecraft/mods/StevesAddons-0.15.0.jar",
+    "file_path": "../minecraft/mods/StevesAddons-0.15.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/StevesAddons",
     "notes": "",
@@ -2054,7 +2055,7 @@
     }
   },
   "StevesCarts": {
-    "file_path": "../minecraft/mods/StevesCarts-2.3.12.jar",
+    "file_path": "../minecraft/mods/StevesCarts-2.3.13.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/SC2",
     "notes": "",
@@ -2092,7 +2093,7 @@
     }
   },
   "StorageDrawers": {
-    "file_path": "../minecraft/mods/StorageDrawers-2.2.4-GTNH.jar",
+    "file_path": "../minecraft/mods/StorageDrawers-2.2.17-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/StorageDrawers",
     "notes": "",
@@ -2155,7 +2156,7 @@
     }
   },
   "TConstruct": {
-    "file_path": "../minecraft/mods/TConstruct-1.14.12-GTNH.jar",
+    "file_path": "../minecraft/mods/TConstruct-1.14.46-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/TinkersConstruct",
     "notes": "",
@@ -2200,12 +2201,12 @@
     }
   },
   "TaintedMagic": {
-    "file_path": "../minecraft/mods/Tainted-Magic-7.7.4-GTNH.jar",
+    "file_path": "../minecraft/mods/Tainted-Magic-7.7.7-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Tainted-Magic",
     "notes": "",
     "wanted_by": ["NodalMechanics"],
-    "wants": ["Thaumcraft"],
+    "wants": ["Thaumcraft", "gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
@@ -2323,7 +2324,7 @@
     }
   },
   "ThaumicConcilium": {
-    "file_path": "../minecraft/mods/ThaumicConcilium-1.1.0.jar",
+    "file_path": "../minecraft/mods/ThaumicConcilium-1.1.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -2342,7 +2343,7 @@
     }
   },
   "ThaumicExploration": {
-    "file_path": "../minecraft/mods/Thaumic-Exploration-1.5.21-GTNH.jar",
+    "file_path": "../minecraft/mods/Thaumic-Exploration-1.5.23-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Thaumic_Exploration",
     "notes": "",
@@ -2361,7 +2362,7 @@
     }
   },
   "ThaumicHorizons": {
-    "file_path": "../minecraft/mods/ThaumicHorizons-1.8.11.jar",
+    "file_path": "../minecraft/mods/ThaumicHorizons-1.8.13.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicHorizons",
     "notes": "",
@@ -2399,7 +2400,7 @@
     }
   },
   "ThaumicTinkerer": {
-    "file_path": "../minecraft/mods/ThaumicTinkerer-%5B1.7.10%5D%202.5-550-K-0.jar",
+    "file_path": "../minecraft/mods/ThaumicTinkerer-2.12.20.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicTinkerer",
     "notes": "",
@@ -2475,7 +2476,7 @@
     }
   },
   "TiCTooltips": {
-    "file_path": "../minecraft/mods/TiCTooltips-1.4.0.jar",
+    "file_path": "../minecraft/mods/TiCTooltips-1.4.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/TiC-Tooltips",
     "notes": "",
@@ -2532,7 +2533,7 @@
     }
   },
   "TwilightForest": {
-    "file_path": "../minecraft/mods/TwilightForest-2.7.23.jar",
+    "file_path": "../minecraft/mods/TwilightForest-2.7.27.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/twilightforest",
     "notes": "",
@@ -2570,7 +2571,7 @@
     }
   },
   "VillageNames": {
-    "file_path": "../minecraft/mods/VillageNames-4.5.1-GTNH.jar",
+    "file_path": "../minecraft/mods/VillageNames-4.5.8-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -2646,7 +2647,7 @@
     }
   },
   "Waila": {
-    "file_path": "../minecraft/mods/Waila-1.9.15.jar",
+    "file_path": "../minecraft/mods/Waila-1.19.22.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/waila",
     "notes": "",
@@ -2684,7 +2685,7 @@
     }
   },
   "WarpTheory": {
-    "file_path": "../minecraft/mods/WarpTheory-1.5.0-GTNH.jar",
+    "file_path": "../minecraft/mods/WarpTheory-1.5.3-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WarpTheory",
     "notes": "",
@@ -2703,7 +2704,7 @@
     }
   },
   "WitcheryExtras": {
-    "file_path": "../minecraft/mods/WitcheryExtras-1.4.2.jar",
+    "file_path": "../minecraft/mods/WitcheryExtras-1.4.11.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WitcheryExtras",
     "notes": "",
@@ -2722,7 +2723,7 @@
     }
   },
   "WitchingGadgets": {
-    "file_path": "../minecraft/mods/WitchingGadgets-1.8.39-GTNH.jar",
+    "file_path": "../minecraft/mods/WitchingGadgets-1.8.41-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WitchingGadgets",
     "notes": "",
@@ -2760,7 +2761,7 @@
     }
   },
   "adventurebackpack": {
-    "file_path": "../minecraft/mods/adventurebackpack-1.4.16-GTNH.jar",
+    "file_path": "../minecraft/mods/adventurebackpack-1.4.18-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/AdventureBackpack2",
     "notes": "",
@@ -2779,7 +2780,7 @@
     }
   },
   "ae2fc": {
-    "file_path": "../minecraft/mods/ae2fc-1.5.66-gtnh.jar",
+    "file_path": "../minecraft/mods/ae2fc-1.5.73-gtnh.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
     "notes": "",
@@ -2798,7 +2799,7 @@
     }
   },
   "ae2stuff": {
-    "file_path": "../minecraft/mods/ae2stuff-0.10.14-GTNH.jar",
+    "file_path": "../minecraft/mods/ae2stuff-0.10.19-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ae2stuff",
     "notes": "",
@@ -2893,7 +2894,7 @@
     }
   },
   "alfheim": {
-    "file_path": "../minecraft/mods/Alfheim-63.jar",
+    "file_path": "../minecraft/mods/Alfheim-65.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -2912,7 +2913,7 @@
     }
   },
   "angelica": {
-    "file_path": "../minecraft/mods/angelica-2.0.0-alpha25.jar",
+    "file_path": "../minecraft/mods/angelica-2.1.17.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Angelica",
     "notes": "",
@@ -2931,7 +2932,7 @@
     }
   },
   "antiquities": {
-    "file_path": "../minecraft/mods/antiquities-0.2.52.jar",
+    "file_path": "../minecraft/mods/antiquities-0.2.53.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -2972,6 +2973,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-23T16:25:38.484Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "aquaacrobatics": {
+    "file_path": "../minecraft/mods/aquaacrobatics-0.1.0.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["unimixins", "gtnhlib"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "0.1.0",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -3038,7 +3058,7 @@
     }
   },
   "arsmagica2": {
-    "file_path": "../minecraft/mods/AM2.5-LTS-1.8-RE.jar",
+    "file_path": "../minecraft/mods/AM2.5-LTS-1.8.3-RE.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/RubilaxXxx/ArsMagica2-5/releases",
     "notes": "",
@@ -3076,7 +3096,7 @@
     }
   },
   "asjpatcher": {
-    "file_path": "../minecraft/mods/1.7.10-ASJCore-1.5.2.2.jar",
+    "file_path": "../minecraft/mods/1.7.10-ASJCore-1.6.0.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -3095,7 +3115,7 @@
     }
   },
   "backhand": {
-    "file_path": "../minecraft/mods/backhand-1.8.3.jar",
+    "file_path": "../minecraft/mods/backhand-1.8.8.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Backhand",
     "notes": "",
@@ -3228,7 +3248,7 @@
     }
   },
   "betterquesting": {
-    "file_path": "../minecraft/mods/BetterQuesting-3.8.13-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/BetterQuesting-3.8.32-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/BetterQuesting",
     "notes": "",
@@ -3254,25 +3274,6 @@
     "wanted_by": [],
     "wants": [],
     "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
-      "file_pattern": ""
-    }
-  },
-  "bugtorch": {
-    "file_path": "../minecraft/mods/bugtorch-1.2.14.jar.disabled",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": ["unimixins", "gtnhmixins"],
-    "enabled": false,
     "other_mod_ids": [],
     "update_state": {
       "version": "0",
@@ -3342,7 +3343,7 @@
     }
   },
   "chromatifixes": {
-    "file_path": "../minecraft/mods/chromatifixes-1.14.1.jar",
+    "file_path": "../minecraft/mods/chromatifixes-1.14.4.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/MalTeeez/ChromatiFixes",
     "notes": "",
@@ -3456,7 +3457,7 @@
     }
   },
   "computronics": {
-    "file_path": "../minecraft/mods/Computronics-1.9.3-GTNH.jar",
+    "file_path": "../minecraft/mods/Computronics-1.9.5-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Computronics",
     "notes": "",
@@ -3475,7 +3476,7 @@
     }
   },
   "controlling": {
-    "file_path": "../minecraft/mods/controlling-2.1.2.jar",
+    "file_path": "../minecraft/mods/controlling-2.1.7.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Controlling",
     "notes": "",
@@ -3494,7 +3495,7 @@
     }
   },
   "cookingforblockheads": {
-    "file_path": "../minecraft/mods/CookingForBlockheads-1.4.4-GTNH.jar",
+    "file_path": "../minecraft/mods/CookingForBlockheads-1.4.10-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/CookingForBlockheads",
     "notes": "",
@@ -3703,7 +3704,7 @@
     }
   },
   "endercore": {
-    "file_path": "../minecraft/mods/endercore-0.5.7.jar",
+    "file_path": "../minecraft/mods/endercore-0.5.12.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/EnderCore",
     "notes": "",
@@ -3779,12 +3780,12 @@
     }
   },
   "etfuturum": {
-    "file_path": "../minecraft/mods/etfuturum-2.6.2.30-GTNH-pre.jar",
+    "file_path": "../minecraft/mods/etfuturum-2.6.18-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
     "notes": "",
     "wanted_by": [],
-    "wants": [],
+    "wants": ["gtnhlib"],
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
@@ -3854,8 +3855,8 @@
       "file_pattern": ""
     }
   },
-  "floatingitems": {
-    "file_path": "../minecraft/mods/FloatingItems-1.7.10-0.1.0.jar",
+  "fether": {
+    "file_path": "../minecraft/mods/fether-2.0.5.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -3864,7 +3865,7 @@
     "enabled": true,
     "other_mod_ids": [],
     "update_state": {
-      "version": "0.1.0",
+      "version": "2.0.5",
       "disable_check": false,
       "frequency": "EOL",
       "last_status": "200",
@@ -3931,7 +3932,7 @@
     }
   },
   "gadomancy": {
-    "file_path": "../minecraft/mods/gadomancy-1.5.3.jar",
+    "file_path": "../minecraft/mods/gadomancy-1.5.9.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Gadomancy",
     "notes": "",
@@ -3950,7 +3951,7 @@
     }
   },
   "gendustry": {
-    "file_path": "../minecraft/mods/gendustry-1.9.4-GTNH.jar",
+    "file_path": "../minecraft/mods/gendustry-1.9.8-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/gendustry",
     "notes": "",
@@ -3969,7 +3970,7 @@
     }
   },
   "gravisuiteneo": {
-    "file_path": "../minecraft/mods/gravisuiteneo-1.3.6.jar",
+    "file_path": "../minecraft/mods/gravisuiteneo-1.3.8.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -3988,7 +3989,7 @@
     }
   },
   "gtnhlib": {
-    "file_path": "../minecraft/mods/gtnhlib-0.9.39.jar",
+    "file_path": "../minecraft/mods/gtnhlib-0.9.47.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/GTNHLib",
     "notes": "",
@@ -4012,7 +4013,12 @@
       "HardcoreEnderExpansion",
       "EnderIO",
       "chromatifixes",
-      "u25core"
+      "u25core",
+      "etfuturum",
+      "aquaacrobatics",
+      "ForbiddenMagic",
+      "Forestry",
+      "TaintedMagic"
     ],
     "wants": [],
     "enabled": true,
@@ -4104,7 +4110,7 @@
     }
   },
   "hodgepodge": {
-    "file_path": "../minecraft/mods/hodgepodge-2.7.98.jar",
+    "file_path": "../minecraft/mods/hodgepodge-2.7.120.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Hodgepodge",
     "notes": "",
@@ -4199,7 +4205,7 @@
     }
   },
   "irontank": {
-    "file_path": "../minecraft/mods/irontanks-1.4.2.jar",
+    "file_path": "../minecraft/mods/irontanks-1.4.4.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Irontanks",
     "notes": "",
@@ -4446,13 +4452,13 @@
     }
   },
   "mods": {
-    "file_path": "../minecraft/mods/!mod-director-launchwrapper-1.9.1fork6.jar.disabled",
+    "file_path": "../minecraft/mods/!mod-director-launchwrapper-1.9.1fork6.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
     "wanted_by": [],
     "wants": [],
-    "enabled": false,
+    "enabled": true,
     "other_mod_ids": [],
     "update_state": {
       "version": "/!mod-director-launchwrapper-1.9.1fork6",
@@ -4503,7 +4509,7 @@
     }
   },
   "modularui2": {
-    "file_path": "../minecraft/mods/modularui2-2.3.16-1.7.10.jar",
+    "file_path": "../minecraft/mods/modularui2-2.3.48-1.7.10.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ModularUI2",
     "notes": "",
@@ -4560,7 +4566,7 @@
     }
   },
   "neenergistics": {
-    "file_path": "../minecraft/mods/NotEnoughEnergistics-1.7.26.jar",
+    "file_path": "../minecraft/mods/NotEnoughEnergistics-1.7.28.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/NotEnoughEnergistics",
     "notes": "",
@@ -4575,6 +4581,25 @@
       "last_status": "200",
       "last_updated_at": "2025-11-19T23:00:43.798Z",
       "source_type": "GH_RELEASE",
+      "file_pattern": ""
+    }
+  },
+  "neicustomdiagram": {
+    "file_path": "../minecraft/mods/NEICustomDiagram-1.8.18.jar",
+    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
+    "source": "",
+    "notes": "",
+    "wanted_by": [],
+    "wants": ["NotEnoughItems"],
+    "enabled": true,
+    "other_mod_ids": [],
+    "update_state": {
+      "version": "1.8.18",
+      "disable_check": false,
+      "frequency": "EOL",
+      "last_status": "200",
+      "last_updated_at": "",
+      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -4598,7 +4623,7 @@
     }
   },
   "neiintegration": {
-    "file_path": "../minecraft/mods/NEIIntegration-1.5.1.jar",
+    "file_path": "../minecraft/mods/NEIIntegration-1.5.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/NEI-Integration",
     "notes": "",
@@ -4712,7 +4737,7 @@
     }
   },
   "openmodularturrets": {
-    "file_path": "../minecraft/mods/OpenModularTurrets-2.4.3.jar",
+    "file_path": "../minecraft/mods/OpenModularTurrets-2.4.4.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/OpenModularTurrets",
     "notes": "",
@@ -4788,7 +4813,7 @@
     }
   },
   "overloadedarmorbar": {
-    "file_path": "../minecraft/mods/overloadedarmorbar-1.1.0.jar",
+    "file_path": "../minecraft/mods/overloadedarmorbar-1.1.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/OverloadedArmorBar",
     "notes": "",
@@ -4826,7 +4851,7 @@
     }
   },
   "randomboubles": {
-    "file_path": "../minecraft/mods/randomboubles-1.1.5.jar",
+    "file_path": "../minecraft/mods/randomboubles-1.1.6.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/RandomBoubles",
     "notes": "",
@@ -4864,7 +4889,7 @@
     }
   },
   "salisarcana": {
-    "file_path": "../minecraft/mods/salisarcana-1.1.37-GTNH.jar",
+    "file_path": "../minecraft/mods/salisarcana-1.1.51-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/Salis-Arcana",
     "notes": "",
@@ -4921,7 +4946,7 @@
     }
   },
   "serverutilities": {
-    "file_path": "../minecraft/mods/ServerUtilities-2.2.5.jar",
+    "file_path": "../minecraft/mods/ServerUtilities-2.2.19.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ServerUtilities",
     "notes": "",
@@ -4936,25 +4961,6 @@
       "last_status": "200",
       "last_updated_at": "",
       "source_type": "GH_RELEASE",
-      "file_pattern": ""
-    }
-  },
-  "shaderfixer": {
-    "file_path": "../minecraft/mods/shaderfixer-4.9.jar",
-    "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
-    "source": "",
-    "notes": "",
-    "wanted_by": [],
-    "wants": [],
-    "enabled": true,
-    "other_mod_ids": [],
-    "update_state": {
-      "version": "0",
-      "disable_check": false,
-      "frequency": "EOL",
-      "last_status": "200",
-      "last_updated_at": "",
-      "source_type": "OTHER",
       "file_pattern": ""
     }
   },
@@ -5149,7 +5155,7 @@
     }
   },
   "tcnodetracker": {
-    "file_path": "../minecraft/mods/tcnodetracker-1.4.1-pre.jar",
+    "file_path": "../minecraft/mods/tcnodetracker-1.4.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/TCNodeTracker",
     "notes": "",
@@ -5244,7 +5250,7 @@
     }
   },
   "thaumicbases": {
-    "file_path": "../minecraft/mods/Thaumic-Based-1.9.9-pre.jar",
+    "file_path": "../minecraft/mods/Thaumic-Based-1.9.12.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicBases",
     "notes": "",
@@ -5282,7 +5288,7 @@
     }
   },
   "thaumicenergistics": {
-    "file_path": "../minecraft/mods/thaumicenergistics-1.7.34-GTNH.jar",
+    "file_path": "../minecraft/mods/thaumicenergistics-1.7.42-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ThaumicEnergistics",
     "notes": "",
@@ -5320,7 +5326,7 @@
     }
   },
   "thaumicinsurgence": {
-    "file_path": "../minecraft/mods/thaumicinsurgence-0.4.0.jar",
+    "file_path": "../minecraft/mods/thaumicinsurgence-0.4.1.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/thaumicinsurgence",
     "notes": "",
@@ -5377,7 +5383,7 @@
     }
   },
   "torohealthmod": {
-    "file_path": "../minecraft/mods/torohealth-1.2.0.jar",
+    "file_path": "../minecraft/mods/torohealth-1.2.2.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/ToroHealth",
     "notes": "",
@@ -5415,7 +5421,7 @@
     }
   },
   "txloader": {
-    "file_path": "../minecraft/mods/txloader-1.8.6-pre.jar",
+    "file_path": "../minecraft/mods/txloader-1.8.9.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "",
     "notes": "",
@@ -5463,13 +5469,13 @@
       "hodgepodge",
       "LogisticsPipes",
       "WitcheryExtras",
-      "bugtorch",
       "modularui",
       "modularui2",
       "tcneiadditions",
       "ThaumcraftResearchTweaks",
       "u25core",
-      "angelica"
+      "angelica",
+      "aquaacrobatics"
     ],
     "wants": [],
     "enabled": true,
@@ -5513,7 +5519,7 @@
     }
   },
   "wawla": {
-    "file_path": "../minecraft/mods/Wawla-1.3.1-GTNH.jar",
+    "file_path": "../minecraft/mods/Wawla-1.3.3-GTNH.jar",
     "tags": ["SIDE.CLIENT", "SIDE.SERVER"],
     "source": "https://github.com/GTNewHorizons/WAWLA",
     "notes": "",
