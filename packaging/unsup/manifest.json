@@ -3,8 +3,8 @@
     "name": "FriendSlop Nostalgia",
     "versions": {
         "current": {
-            "name": "1.0.2 (a8d4076)",
-            "code": 3
+            "name": "1.0.3 (5f96503)",
+            "code": 4
         },
         "history": [
             {
@@ -14,6 +14,10 @@
             {
                 "name": "1.0.1 (9c92781)",
                 "code": 2
+            },
+            {
+                "name": "1.0.2 (a8d4076)",
+                "code": 3
             }
         ]
     }
