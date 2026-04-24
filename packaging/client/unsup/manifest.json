@@ -3,9 +3,14 @@
     "name": "Friend Slop Nostalgia - CLIENT",
     "versions": {
         "current": {
-            "name": "1.0.0 (a33a57c)",
-            "code": 1
+            "name": "1.0.1 (ae245e6)",
+            "code": 2
         },
-        "history": []
+        "history": [
+            {
+                "name": "1.0.0 (a33a57c)",
+                "code": 1
+            }
+        ]
     }
 }
