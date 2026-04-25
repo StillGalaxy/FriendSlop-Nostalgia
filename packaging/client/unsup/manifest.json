@@ -1,0 +1,20 @@
+{
+    "unsup_manifest": "root-1",
+    "name": "Friend Slop Nostalgia - CLIENT",
+    "versions": {
+        "current": {
+            "name": "1.0.2 (7d999db)",
+            "code": 3
+        },
+        "history": [
+            {
+                "name": "1.0.0 (a33a57c)",
+                "code": 1
+            },
+            {
+                "name": "1.0.1 (ae245e6)",
+                "code": 2
+            }
+        ]
+    }
+}
