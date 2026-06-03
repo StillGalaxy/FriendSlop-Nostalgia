@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="pyramidJungleDispenser" loading_mode="OVERRIDE" count_min="2" count_max="2">
+    <loot item="minecraft:arrow" damage="0" weight="30" count_min="2" count_max="7"/>
+    <loot item="evilcraft:originsOfDarkness" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="evilcraft:condensedBlood" damage="0" weight="10" count_min="5" count_max="32"/>
+    <loot item="evilcraft:garmonbozia" damage="0" weight="2" count_min="1" count_max="3"/>
+    <loot item="MineFactoryReloaded:safarinet.singleuse" damage="0" nbt="{hide:1b}" weight="25" count_min="1" count_max="1"/>
+    <loot item="ChromatiCraft:chromaticraft_block_glowsapling" damage="0" weight="2" count_min="1" count_max="1"/>
+</LootGroup>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="ThaumicConcilium:cultist_tower" loading_mode="OVERRIDE" count_min="2" count_max="8">
+    <loot item="Thaumcraft:ItemNugget" damage="7" weight="10" count_min="1" count_max="3"/>
+    <loot item="Thaumcraft:ItemEldritchObject" damage="1" weight="6" count_min="1" count_max="1"/>
+    <loot item="minecraft:bow" damage="0" weight="8" count_min="1" count_max="1"/>
+    <loot item="minecraft:arrow" damage="0" weight="15" count_min="1" count_max="16"/>
+    <loot item="Thaumcraft:TripleMeatTreat" damage="0" weight="10" count_min="1" count_max="3"/>
+    <loot item="Thaumcraft:ItemResource" damage="9" weight="12" count_min="1" count_max="3"/>
+</LootGroup>

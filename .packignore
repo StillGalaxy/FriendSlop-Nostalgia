@@ -10,6 +10,9 @@ minecraft/FailedClasses
 minecraft/OpenComputersMod-1.12.34-GTNH-52-libjnlua52-windows-x86_64.dll
 minecraft/OpenComputersMod-1.12.34-GTNH-53-libjnlua53-windows-x86_64.dll
 minecraft/OpenComputersMod-1.12.34-GTNH-54-libjnlua54-windows-x86_64.dll
+minecraft/OpenComputersMod-1.12.39-GTNH-52-libjnlua52-windows-x86_64.dll
+minecraft/OpenComputersMod-1.12.39-GTNH-53-libjnlua53-windows-x86_64.dll
+minecraft/OpenComputersMod-1.12.39-GTNH-54-libjnlua54-windows-x86_64.dll
 minecraft/TCNodeTracker
 minecraft/TIWorldData
 minecraft/TimeUsage.txt
@@ -30,7 +33,9 @@ minecraft/saves/7276657000830510121 (1)-20251113-034319.zip
 minecraft/saves/7276657000830510121 (1)-20251113-042449.zip
 minecraft/saves/Baby Blender-20251129-132823.zip
 minecraft/saves/Chud World
+minecraft/saves/CreativeGamer
 minecraft/saves/DragonAPI
+minecraft/saves/GoEat
 minecraft/saves/NEI/client.dat
 minecraft/saves/NEI/local
 minecraft/saves/New World
@@ -41,6 +46,7 @@ minecraft/saves/New World-20251113-194234.zip
 minecraft/saves/New World-20251127-025535.zip
 minecraft/saves/New World-20260326-025047.zip
 minecraft/saves/New World-20260425-144456.zip
+minecraft/saves/New World-20260426-014853.zip
 minecraft/saves/Pangea
 minecraft/saves/TESTING
 minecraft/saves/Testing Gen-20260311-145125.zip

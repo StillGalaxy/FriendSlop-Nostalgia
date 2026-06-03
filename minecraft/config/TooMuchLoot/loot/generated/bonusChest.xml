@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="bonusChest" loading_mode="OVERRIDE" count_min="10" count_max="10">
+    <loot item="minecraft:stick" damage="0" weight="10" count_min="1" count_max="3"/>
+    <loot item="minecraft:planks" damage="0" weight="10" count_min="1" count_max="3"/>
+    <loot item="minecraft:log" damage="0" weight="10" count_min="1" count_max="3"/>
+    <loot item="minecraft:apple" damage="0" weight="5" count_min="2" count_max="3"/>
+    <loot item="minecraft:bread" damage="0" weight="3" count_min="2" count_max="3"/>
+    <loot item="minecraft:log2" damage="0" weight="10" count_min="1" count_max="3"/>
+    <loot item="Botania:lexicon" damage="0" weight="7" count_min="1" count_max="1"/>
+    <loot item="Botania:blackLotus" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="IC2:itemTreetap" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="evilcraft:originsOfDarkness" damage="0" weight="5" count_min="1" count_max="1"/>
+    <loot item="evilcraft:condensedBlood" damage="0" weight="10" count_min="5" count_max="32"/>
+    <loot item="evilcraft:garmonbozia" damage="0" weight="2" count_min="1" count_max="3"/>
+    <loot item="VillageNames:codex" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="0" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="1" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="2" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="3" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="4" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="5" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="6" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="7" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="8" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="9" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="10" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="11" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="12" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="13" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="14" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_shard" damage="15" weight="1" count_min="1" count_max="5"/>
+    <loot item="ChromatiCraft:chromaticraft_item_help" damage="0" weight="3" count_min="1" count_max="1"/>
+    <loot item="RotaryCraft:rotarycraft_item_shaftcraft" damage="1" weight="6" count_min="1" count_max="5"/>
+    <loot item="TConstruct:broadsword" damage="0" weight="10" count_min="0" count_max="1"/>
+    <loot item="TConstruct:pickaxe" damage="0" nbt="{InfiTool:{BaseDurability:40,Head:0,BaseAttack:2,ToolEXP:0L,HarvestLevel:0,Attack:2,RenderHead:0,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,Accessory:0,MiningSpeed:150,RenderAccessory:0,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:40,Modifiers:0},display:{Name:&quot;Starter Pickaxe&quot;}}" weight="5" count_min="1" count_max="1"/>
+    <loot item="TConstruct:hatchet" damage="0" nbt="{InfiTool:{BaseDurability:40,Head:0,BaseAttack:4,ToolEXP:0L,HarvestLevel:0,Attack:4,RenderHead:0,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,MiningSpeed:150,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:40,Modifiers:0},display:{Name:&quot;Starter Hatchet&quot;}}" weight="5" count_min="1" count_max="1"/>
+</LootGroup>
