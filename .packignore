@@ -6,6 +6,7 @@ minecraft/.mixin.out
 minecraft/BotaniaVars.dat
 minecraft/ChromatiCraft_Data
 minecraft/DragonAPI
+minecraft/EnderStorage
 minecraft/FailedClasses
 minecraft/OpenComputersMod-1.12.34-GTNH-52-libjnlua52-windows-x86_64.dll
 minecraft/OpenComputersMod-1.12.34-GTNH-53-libjnlua53-windows-x86_64.dll
@@ -13,18 +14,23 @@ minecraft/OpenComputersMod-1.12.34-GTNH-54-libjnlua54-windows-x86_64.dll
 minecraft/OpenComputersMod-1.12.39-GTNH-52-libjnlua52-windows-x86_64.dll
 minecraft/OpenComputersMod-1.12.39-GTNH-53-libjnlua53-windows-x86_64.dll
 minecraft/OpenComputersMod-1.12.39-GTNH-54-libjnlua54-windows-x86_64.dll
+minecraft/OpenComputersMod-1.12.44-GTNH-52-libjnlua52-windows-x86_64.dll
+minecraft/OpenComputersMod-1.12.44-GTNH-53-libjnlua53-windows-x86_64.dll
+minecraft/OpenComputersMod-1.12.44-GTNH-54-libjnlua54-windows-x86_64.dll
 minecraft/TCNodeTracker
 minecraft/TIWorldData
 minecraft/TimeUsage.txt
 minecraft/acmedia
 minecraft/asm
 minecraft/backups
+minecraft/bettercrashes-stackdeobfuscator-methods.csv
 minecraft/blueprints
 minecraft/cache
 minecraft/coremods
 minecraft/coretweaks
 minecraft/data
 minecraft/ds_private_storage.json
+minecraft/falsepattern
 minecraft/hs_err_pid6716.log
 minecraft/journeymap/data
 minecraft/minetweaker.log
@@ -47,11 +53,16 @@ minecraft/saves/New World-20251127-025535.zip
 minecraft/saves/New World-20260326-025047.zip
 minecraft/saves/New World-20260425-144456.zip
 minecraft/saves/New World-20260426-014853.zip
+minecraft/saves/New World-20260603-153656.zip
+minecraft/saves/New World-20260603-161208.zip
+minecraft/saves/New World-20260603-185220.zip
+minecraft/saves/New World-20260603-190124.zip
 minecraft/saves/Pangea
 minecraft/saves/TESTING
 minecraft/saves/Testing Gen-20260311-145125.zip
 minecraft/screenshots
 minecraft/server-resource-packs
+minecraft/texturepacks
 minecraft/usercache.json
 minecraft/usernamecache.json
 packscripts

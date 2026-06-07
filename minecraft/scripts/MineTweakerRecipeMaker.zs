@@ -47,6 +47,11 @@ recipes.removeShaped(<academy-craft:ac_Item_constPlate> * 2, [[<ore:ingotConstra
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<TConstruct:materials:11>, [<TConstruct:oreBerries:4>, <TConstruct:oreBerries:4>, <TConstruct:oreBerries:4>, <TConstruct:oreBerries:4>, <ore:oreberryAluminum>, <TConstruct:oreBerries:4>, <ore:oreberryAluminum>, <ore:oreberryAluminum>, <TConstruct:oreBerries:4>]);
+recipes.addShapeless(<minecraft:gold_ingot>, [<ore:oreberryGold>, <ore:oreberryGold>, <TConstruct:oreBerries:1>, <ore:oreberryGold>, <ore:oreberryGold>, <ore:oreberryGold>, <ore:oreberryGold>, <ore:oreberryGold>, <TConstruct:oreBerries:1>]);
+recipes.addShapeless(<minecraft:iron_ingot>, [<TConstruct:oreBerries>, <ore:oreberryIron>, <TConstruct:oreBerries>, <TConstruct:oreBerries>, <ore:oreberryIron>, <ore:oreberryIron>, <ore:oreberryIron>, <TConstruct:oreBerries>, <ore:oreberryIron>]);
+recipes.addShapeless(<ThermalFoundation:material:64>, [<ore:oreberryCopper>, <ore:oreberryCopper>, <ore:oreberryCopper>, <ore:oreberryCopper>, <ore:oreberryCopper>, <ore:oreberryCopper>, <ore:oreberryCopper>, <ore:oreberryCopper>, <TConstruct:oreBerries:2>]);
+recipes.addShapeless(<ThermalFoundation:material:65>, [<ore:oreberryTin>, <ore:oreberryTin>, <ore:oreberryTin>, <TConstruct:oreBerries:3>, <ore:oreberryTin>, <TConstruct:oreBerries:3>, <ore:oreberryTin>, <TConstruct:oreBerries:3>, <ore:oreberryTin>]);
 recipes.addShapeless(<MineFactoryReloaded:rubberwood.sapling:1> * 9, [<MineFactoryReloaded:rubberwood.sapling:3>]);
 recipes.addShapeless(<MineFactoryReloaded:rubberwood.sapling:2> * 9, [<MineFactoryReloaded:rubberwood.sapling:1>]);
 recipes.addShapeless(<MineFactoryReloaded:rubberwood.sapling> * 9, [<MineFactoryReloaded:rubberwood.sapling:2>]);

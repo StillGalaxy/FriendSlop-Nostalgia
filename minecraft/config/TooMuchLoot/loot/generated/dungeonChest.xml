@@ -51,7 +51,7 @@
     <loot item="academy-craft:ac_Item_inductionFactor" damage="2" weight="4" count_min="1" count_max="1"/>
     <loot item="academy-craft:ac_Item_inductionFactor" damage="3" weight="4" count_min="1" count_max="1"/>
     <loot item="MineFactoryReloaded:safarinet.singleuse" damage="0" weight="25" count_min="1" count_max="1"/>
-    <loot item="MineFactoryReloaded:rubberwood.sapling" damage="2" weight="8" count_min="1" count_max="4"/>
+    <loot item="MineFactoryReloaded:rubberwood.sapling" damage="0" weight="0" count_min="0" count_max="0"/>
     <loot item="TConstruct:heartCanister" damage="1" weight="5" count_min="1" count_max="1"/>
     <loot item="adventurebackpack:adventureBackpack" damage="2" nbt="{wearableData:{type:2b,inventory:[]}}" weight="2" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>
