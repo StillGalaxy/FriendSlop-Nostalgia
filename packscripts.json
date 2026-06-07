@@ -1,0 +1,116 @@
+{
+    "RELATIVE_INSTANCE_DIRECTORY": "./",
+    "MOD_BASE_DIR": "./minecraft/mods",
+    "ANNOTATED_FILE": "./annotated_mods.json",
+    "PACKAGING": {
+        "PACK_NAME": "Friend Slop Nostalgia",
+        "PACKAGE_DIRECTORY": "./packaging/",
+        "GIT_REMOTE_URL": "https://raw.githubusercontent.com/StillGalaxy/FriendSlop-Nostalgia/main",
+        "GIT_LFS_REMOTE_URL": "https://github.com/StillGalaxy/FriendSlop-Nostalgia/raw/main",
+        "PACK_VARIANTS": {
+            "client": {
+                "TYPE": "client",
+                "REQUIRED_MOD_TAGS": [
+                    "SIDE.CLIENT"
+                ],
+                "EXCLUDED_MOD_TAGS": [],
+                "TRACK_INCLUDE_PATHS": [
+                    {
+                        "path": "./minecraft/mods"
+                    },
+                    {
+                        "path": "./minecraft/config"
+                    },
+                    {
+                        "path": "./minecraft/scripts"
+                    }
+                ],
+                "FORCE_INCLUDE_PATHS": [
+                    {
+                        "path": "./packaging/unsup.jar",
+                        "include_as": "./minecraft/unsup.jar.new"
+                    },
+                    {
+                        "path": "./packaging/unsup-launcher.jar",
+                        "include_as": "./minecraft/unsup-launcher.jar",
+                        "dont_track": true
+                    },
+                    {
+                        "path": "./packaging/client/unsup.ini",
+                        "include_as": "./minecraft/unsup.ini"
+                    },
+                    {
+                        "path": "./packaging/client/instance.cfg",
+                        "include_as": "instance.cfg",
+                        "dont_track": true
+                    },
+                    {
+                        "path": "./patches",
+                        "include_as": "patches"
+                    },
+                    {
+                        "path": "./mmc-pack.json",
+                        "include_as": "mmc-pack.json"
+                    },
+                    {
+                        "path": "./icon.png",
+                        "include_as": "icon.png"
+                    }
+                ],
+                "EXCLUDE_FROM_INCLUDE_PATHS": [
+                    "./minecraft/mods/disabled_mods"
+                ],
+                "EXCLUDE_PATTERNS": [
+                    "\\.git\\w+$"
+                ]
+            },
+            "server": {
+                "TYPE": "server",
+                "REQUIRED_MOD_TAGS": [
+                    "SIDE.SERVER"
+                ],
+                "EXCLUDED_MOD_TAGS": [],
+                "TRACK_INCLUDE_PATHS": [
+                    {
+                        "path": "./minecraft/mods",
+                        "include_as": "mods"
+                    },
+                    {
+                        "path": "./minecraft/config",
+                        "include_as": "config"
+                    },
+                    {
+                        "path": "./minecraft/scripts",
+                        "include_as": "scripts"
+                    }
+                ],
+                "FORCE_INCLUDE_PATHS": [
+                    {
+                        "path": "./packaging/unsup.jar",
+                        "include_as": "unsup.jar.new"
+                    },
+                    {
+                        "path": "./packaging/unsup-launcher.jar",
+                        "include_as": "unsup-launcher.jar",
+                        "dont_track": true
+                    },
+                    {
+                        "path": "./packaging/server/unsup.ini",
+                        "include_as": "unsup.ini"
+                    },
+                    {
+                        "path": "./packaging/server/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar",
+                        "include_as": "forge-1.7.10-10.13.4.1614-1.7.10-installer.jar"
+                    }
+                ],
+                "EXCLUDE_FROM_INCLUDE_PATHS": [
+                    "./minecraft/mods/disabled_mods"
+                ],
+                "EXCLUDE_PATTERNS": [
+                    "\\.git\\w+$"
+                ]
+            }
+        },
+        "MAX_WORKER_THREADS": 10
+    }
+}

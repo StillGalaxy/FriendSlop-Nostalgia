@@ -1,0 +1,76 @@
+name: Release tagged build as packscripts bundles
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write # push commit
+
+jobs:
+  generate-manifests-and-release:
+    if: github.event.base_ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out current modpack state
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # needed for tagging
+          submodules: true
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
+
+      - name: Run combined pass over mods
+        working-directory: packscripts
+        env:
+          PACKSCRIPTS_IS_LIMITED_ENV: 1
+          PACKSCRIPTS_GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bun main refresh
+          bun main version verify_links
+
+      - name: Auto-enroll large files in Git LFS
+        run: |
+          git lfs install
+          rm -f .gitattributes
+          cp .gitattributes.example .gitattributes
+          find . -mindepth 1 \
+            ! -path './.git*' \
+            ! -path './packscripts*' \
+            -size +10M \
+            | xargs -I{} git lfs track "{}"
+
+      - name: Commit pack snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: refresh packscripts modpack manifest for ${{ github.ref_name }}"
+          git push origin main
+
+      - name: Generate version manifests with packscripts
+        working-directory: packscripts
+        env:
+          PACKSCRIPTS_IS_LIMITED_ENV: 1
+        run: |
+          bun main package build -t ${{ github.ref_name }}
+          bun main package bundle
+
+      - name: Auto-enroll large files in Git LFS
+        run: |
+          rm -f .gitattributes
+          cp .gitattributes.example .gitattributes
+          find . -mindepth 1 \
+            ! -path './.git*' \
+            ! -path './packscripts*' \
+            -size +10M \
+            | xargs -I{} git lfs track "{}"
+
+      - name: Commit generated manifests
+        run: |
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: generate packscripts version manifests for ${{ github.ref_name }}"
+          git push origin main
